@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/intro-to-ckb-script-programming-7",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/intro-to-script-7.md",
+  "source": "@site/blog/intro-to-script-7.md",
+  "title": "Introduction to CKB Script Programming 7: Advanced Duktape Examples",
+  "description": "I've introduced duktape before, shown how you can run JavaScript code on Nervos CKB. But up to this point, the code I've shown is all single piece of code with very simple logic. What if we need to parse CKB data structures? What if I need external libraries in my script? In this post we will create a duktape-powered CKB script with the following requirements:",
+  "date": "2020-02-21T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 30.615,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Xuejie Xiao",
+      "title": "blockchain engineer at Cryptape",
+      "url": "https://xuejie.space/about/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Introduction to CKB Script Programming 7: Advanced Duktape Examples",
+    "date": "2020-02-21",
+    "slug": "intro-to-ckb-script-programming-7",
+    "authors": [
+      {
+        "name": "Xuejie Xiao",
+        "title": "blockchain engineer at Cryptape",
+        "url": "https://xuejie.space/about/"
+      }
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Introduction to CKB Script Programming 6: Type ID",
+    "permalink": "/blog/intro-to-ckb-script-programming-6"
+  },
+  "nextItem": {
+    "title": "Introduction to CKB Script Programming 8: Performant WASM",
+    "permalink": "/blog/intro-to-ckb-script-programming-8"
+  }
+}

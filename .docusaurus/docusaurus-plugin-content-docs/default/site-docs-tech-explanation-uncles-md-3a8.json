@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/uncles",
+  "title": "uncles",
+  "description": "UncleBlock is a sub-structure of Block. It is the ordered list of uncle blocks.",
+  "source": "@site/docs/tech-explanation/uncles.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/uncles",
+  "permalink": "/docs/tech-explanation/uncles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/uncles.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "uncles",
+    "title": "uncles"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "transactions",
+    "permalink": "/docs/tech-explanation/transactions"
+  },
+  "next": {
+    "title": "proposals",
+    "permalink": "/docs/tech-explanation/proposals"
+  }
+}

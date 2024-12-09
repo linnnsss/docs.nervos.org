@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/intro-to-ckb-script-programming-8",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/intro-to-script-8.md",
+  "source": "@site/blog/intro-to-script-8.md",
+  "title": "Introduction to CKB Script Programming 8: Performant WASM",
+  "description": "In an earlier post, I've shown you that you can have WASM programming running on CKB, with a little caveat that the WASM programs might not be so performant. I also mentioned that there is a potential solution that could solve the problem. And now it's the day! We now have a new project that could be used to generate performant WASM programs. Let's see how it works in this post.",
+  "date": "2020-03-02T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 19.695,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Xuejie Xiao",
+      "title": "blockchain engineer at Cryptape",
+      "url": "https://xuejie.space/about/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Introduction to CKB Script Programming 8: Performant WASM",
+    "date": "2020-03-02",
+    "slug": "intro-to-ckb-script-programming-8",
+    "authors": [
+      {
+        "name": "Xuejie Xiao",
+        "title": "blockchain engineer at Cryptape",
+        "url": "https://xuejie.space/about/"
+      }
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Introduction to CKB Script Programming 7: Advanced Duktape Examples",
+    "permalink": "/blog/intro-to-ckb-script-programming-7"
+  },
+  "nextItem": {
+    "title": "Introduction to CKB Script Programming 9: Cycle Reductions in Duktape Script",
+    "permalink": "/blog/intro-to-ckb-script-programming-9"
+  }
+}

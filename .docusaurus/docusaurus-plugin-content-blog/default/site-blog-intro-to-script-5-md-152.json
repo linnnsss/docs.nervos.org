@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/intro-to-ckb-script-programming-5",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/intro-to-script-5.md",
+  "source": "@site/blog/intro-to-script-5.md",
+  "title": "Introduction to CKB Script Programming 5: Debugging",
+  "description": "Due to the fact that CKB script works at a much lower level than other smart contracts, the debugging story for CKB, has been quite a mysterious one. In this post, we will show how one can debug CKB scripts. As you will find out, debugging a CKB script is not so different from debugging your everyday program.",
+  "date": "2019-10-18T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 10.82,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Xuejie Xiao",
+      "title": "blockchain engineer at Cryptape",
+      "url": "https://xuejie.space/about/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Introduction to CKB Script Programming 5: Debugging",
+    "date": "2019-10-18",
+    "slug": "intro-to-ckb-script-programming-5",
+    "authors": [
+      {
+        "name": "Xuejie Xiao",
+        "title": "blockchain engineer at Cryptape",
+        "url": "https://xuejie.space/about/"
+      }
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Introduction to CKB Script Programming 4: WebAssembly on CKB",
+    "permalink": "/blog/intro-to-ckb-script-programming-4"
+  },
+  "nextItem": {
+    "title": "Introduction to CKB Script Programming 6: Type ID",
+    "permalink": "/blog/intro-to-ckb-script-programming-6"
+  }
+}

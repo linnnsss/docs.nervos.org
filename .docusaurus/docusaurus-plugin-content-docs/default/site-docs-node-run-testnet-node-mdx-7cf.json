@@ -1,0 +1,28 @@
+{
+  "id": "node/run-testnet-node",
+  "title": "Run a Testnet Node",
+  "description": "Nervos has introduced the Pudge Testnet for developers to experiment with integrations and Scripts. This is ideal for exploring functionalities in a risk-free environment. Due to hash rate fluctuations, expect periodic resets. We suggest allocating 200GB for experimentation.",
+  "source": "@site/docs/node/run-testnet-node.mdx",
+  "sourceDirName": "node",
+  "slug": "/node/run-testnet-node",
+  "permalink": "/docs/node/run-testnet-node",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/node/run-testnet-node.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "run-testnet-node",
+    "title": "Run a Testnet Node"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Run a Mainnet Node",
+    "permalink": "/docs/node/run-mainnet-node"
+  },
+  "next": {
+    "title": "Run a Devnet Node",
+    "permalink": "/docs/node/run-devnet-node"
+  }
+}

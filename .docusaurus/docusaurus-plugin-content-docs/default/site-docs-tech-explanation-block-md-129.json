@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/block",
+  "title": "Block",
+  "description": "A block is a container of transactions, carrying the information required by consensus so the participants can verify and recognize the canonical chain.",
+  "source": "@site/docs/tech-explanation/block.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/block",
+  "permalink": "/docs/tech-explanation/block",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/block.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "block",
+    "title": "Block"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "outputs_data",
+    "permalink": "/docs/tech-explanation/outputs-data"
+  },
+  "next": {
+    "title": "header",
+    "permalink": "/docs/tech-explanation/header"
+  }
+}

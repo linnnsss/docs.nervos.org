@@ -1,0 +1,28 @@
+{
+  "id": "mining/halving",
+  "title": "Halving",
+  "description": "Nervos CKB will have a halving event every 4 years according to its mechanism, at which time the base issuance rewards will be halved. View countdown",
+  "source": "@site/docs/mining/halving.mdx",
+  "sourceDirName": "mining",
+  "slug": "/mining/halving",
+  "permalink": "/docs/mining/halving",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/mining/halving.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "halving",
+    "title": "Halving"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Rewards",
+    "permalink": "/docs/mining/rewards"
+  },
+  "next": {
+    "title": "Cost & Profit",
+    "permalink": "/docs/mining/cost-and-profit"
+  }
+}

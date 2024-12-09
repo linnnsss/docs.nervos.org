@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/intro-to-ckb-script-programming-10",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/intro-to-script-10.md",
+  "source": "@site/blog/intro-to-script-10.md",
+  "title": "Introduction to CKB Script Programming 10: Language Choices",
+  "description": "When crafting CKB, we made the choice to use a generic VM, so it is not bound to any particular programming language. This model certainly has its pros, but it also comes with problems. A question we frequently receive is: what language should I use to program on Nervos CKB? Let's try to answer this question here.",
+  "date": "2020-04-09T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 10.705,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Xuejie Xiao",
+      "title": "blockchain engineer at Cryptape",
+      "url": "https://xuejie.space/about/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Introduction to CKB Script Programming 10: Language Choices",
+    "date": "2020-04-09",
+    "slug": "intro-to-ckb-script-programming-10",
+    "authors": [
+      {
+        "name": "Xuejie Xiao",
+        "title": "blockchain engineer at Cryptape",
+        "url": "https://xuejie.space/about/"
+      }
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Introduction to CKB Script Programming 9: Cycle Reductions in Duktape Script",
+    "permalink": "/blog/intro-to-ckb-script-programming-9"
+  }
+}

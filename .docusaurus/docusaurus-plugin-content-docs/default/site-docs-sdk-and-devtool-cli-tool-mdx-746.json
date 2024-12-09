@@ -1,0 +1,28 @@
+{
+  "id": "sdk-and-devtool/cli-tools",
+  "title": "CLI Tools",
+  "description": "Command-line tools are often used by developers to perform specific blockchain tasks in a faster and more efficient way.",
+  "source": "@site/docs/sdk-and-devtool/cli-tool.mdx",
+  "sourceDirName": "sdk-and-devtool",
+  "slug": "/sdk-and-devtool/cli-tools",
+  "permalink": "/docs/sdk-and-devtool/cli-tools",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/sdk-and-devtool/cli-tool.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "cli-tools",
+    "title": "CLI Tools"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "JavaScript/TypeScript (Lumos)",
+    "permalink": "/docs/sdk-and-devtool/lumos"
+  },
+  "next": {
+    "title": "Other Dev Tools",
+    "permalink": "/docs/sdk-and-devtool/devtool"
+  }
+}

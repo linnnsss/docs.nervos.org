@@ -1,0 +1,28 @@
+{
+  "id": "mining/rewards",
+  "title": "Rewards",
+  "description": "CKB block rewards comprise base reward, secondary reward, proposal reward, and commitment reward, jointly determined by Nervos’ tokenomics and the NC Max consensus.",
+  "source": "@site/docs/mining/rewards.mdx",
+  "sourceDirName": "mining",
+  "slug": "/mining/rewards",
+  "permalink": "/docs/mining/rewards",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/mining/rewards.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "rewards",
+    "title": "Rewards"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Algorithm and Difficulty Adjustment",
+    "permalink": "/docs/mining/algorithm-difficulty"
+  },
+  "next": {
+    "title": "Halving",
+    "permalink": "/docs/mining/halving"
+  }
+}

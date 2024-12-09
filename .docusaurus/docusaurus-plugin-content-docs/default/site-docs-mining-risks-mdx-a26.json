@@ -1,0 +1,28 @@
+{
+  "id": "mining/risks",
+  "title": "Potential Risks",
+  "description": "Legal and Policy Concerns",
+  "source": "@site/docs/mining/risks.mdx",
+  "sourceDirName": "mining",
+  "slug": "/mining/risks",
+  "permalink": "/docs/mining/risks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/mining/risks.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "risks",
+    "title": "Potential Risks"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Cost & Profit",
+    "permalink": "/docs/mining/cost-and-profit"
+  },
+  "next": {
+    "title": "Hardware",
+    "permalink": "/docs/mining/hardware"
+  }
+}

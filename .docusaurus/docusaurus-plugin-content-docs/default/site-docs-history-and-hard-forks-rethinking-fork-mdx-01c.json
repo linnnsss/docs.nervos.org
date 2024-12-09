@@ -1,0 +1,28 @@
+{
+  "id": "history-and-hard-forks/rethinking-forks",
+  "title": "Rethinking Forks",
+  "description": "Originally wrote by Jan Xie",
+  "source": "@site/docs/history-and-hard-forks/rethinking-fork.mdx",
+  "sourceDirName": "history-and-hard-forks",
+  "slug": "/history-and-hard-forks/rethinking-forks",
+  "permalink": "/docs/history-and-hard-forks/rethinking-forks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/history-and-hard-forks/rethinking-fork.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "rethinking-forks",
+    "title": "Rethinking Forks"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "History VM Version",
+    "permalink": "/docs/history-and-hard-forks/history-vm-version"
+  },
+  "next": {
+    "title": "Nervos Blockchain",
+    "permalink": "/docs/tech-explanation/nervos-blockchain"
+  }
+}

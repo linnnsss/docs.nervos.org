@@ -1,0 +1,28 @@
+{
+  "id": "serialization/encoding-specs",
+  "title": "Encoding Spec With Examples",
+  "description": "Summary of Data Types",
+  "source": "@site/docs/serialization/encoding-specs.mdx",
+  "sourceDirName": "serialization",
+  "slug": "/serialization/encoding-specs",
+  "permalink": "/docs/serialization/encoding-specs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/serialization/encoding-specs.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "encoding-specs",
+    "title": "Encoding Spec With Examples"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Molecule Schema Language",
+    "permalink": "/docs/serialization/schema-language"
+  },
+  "next": {
+    "title": "Example: A Role-Playing Game",
+    "permalink": "/docs/serialization/example-role-playing-game"
+  }
+}

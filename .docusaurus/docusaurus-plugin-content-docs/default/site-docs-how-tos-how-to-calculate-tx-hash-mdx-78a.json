@@ -1,0 +1,28 @@
+{
+  "id": "how-tos/how-to-calculate-tx-hash",
+  "title": "How to Calculate Transaction Hash",
+  "description": "Transaction hash is calculated as follows:",
+  "source": "@site/docs/how-tos/how-to-calculate-tx-hash.mdx",
+  "sourceDirName": "how-tos",
+  "slug": "/how-tos/how-to-calculate-tx-hash",
+  "permalink": "/docs/how-tos/how-to-calculate-tx-hash",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/how-tos/how-to-calculate-tx-hash.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "how-to-calculate-tx-hash",
+    "title": "How to Calculate Transaction Hash"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "How to Query Transaction State",
+    "permalink": "/docs/how-tos/how-to-query-tx-state"
+  },
+  "next": {
+    "title": "How to Calculate Script Hash",
+    "permalink": "/docs/how-tos/how-to-calculate-script-hash"
+  }
+}

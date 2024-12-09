@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/since",
+  "title": "since",
+  "description": "Since value guarding current referenced inputs. since can be added to any input in a transaction, specifying a future time when it can be committed. Please refer to the RFC0017: Transaction Since Precondition for details.",
+  "source": "@site/docs/tech-explanation/since.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/since",
+  "permalink": "/docs/tech-explanation/since",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/since.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "since",
+    "title": "since"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "OutPoint",
+    "permalink": "/docs/tech-explanation/outpoint"
+  },
+  "next": {
+    "title": "outputs",
+    "permalink": "/docs/tech-explanation/outputs"
+  }
+}

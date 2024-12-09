@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/previous-output",
+  "title": "previous_output",
+  "description": "A Cell outpoint that points to the Cells used as inputs. These Cells are referred through outpoint, which contains the transaction hash of the previous transaction, as well as this Cell's index in its transaction's output list.",
+  "source": "@site/docs/tech-explanation/previous-output.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/previous-output",
+  "permalink": "/docs/tech-explanation/previous-output",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/previous-output.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "previous-output",
+    "title": "previous_output"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "CellInput",
+    "permalink": "/docs/tech-explanation/cellinput"
+  },
+  "next": {
+    "title": "OutPoint",
+    "permalink": "/docs/tech-explanation/outpoint"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "dapp/create-token",
+  "title": "Create a Fungible Token",
+  "description": "Tutorial Overview",
+  "source": "@site/docs/dapp/create-token.mdx",
+  "sourceDirName": "dapp",
+  "slug": "/dapp/create-token",
+  "permalink": "/docs/dapp/create-token",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/dapp/create-token.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "create-token",
+    "title": "Create a Fungible Token"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Store Data on Cell",
+    "permalink": "/docs/dapp/store-data-on-cell"
+  },
+  "next": {
+    "title": "Create a DOB",
+    "permalink": "/docs/dapp/create-dob"
+  }
+}

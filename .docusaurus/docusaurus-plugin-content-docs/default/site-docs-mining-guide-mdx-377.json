@@ -1,0 +1,28 @@
+{
+  "id": "mining/guide",
+  "title": "Guide",
+  "description": "This guide will help those who are interested in mining get started on Nervos. We will discuss the essential basics, such as how to find compatible equipment, the importance of choosing a mining pool, and most importantly, we will point out a few other informational resources that will help you to make your mining operation successful.",
+  "source": "@site/docs/mining/guide.mdx",
+  "sourceDirName": "mining",
+  "slug": "/mining/guide",
+  "permalink": "/docs/mining/guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/mining/guide.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "guide",
+    "title": "Guide"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Hardware",
+    "permalink": "/docs/mining/hardware"
+  },
+  "next": {
+    "title": "Info and Stats",
+    "permalink": "/docs/mining/info-stats"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "node/run-mainnet-node",
+  "title": "Run a Mainnet Node",
+  "description": "Running a Mainnet node allows you to participate directly in the live blockchain, supporting the network's operation and integrity. This guide will cover the steps needed to set up and run a mainnet node on CKB, which is ideal for those looking to be actively involved in the network's governance and day-to-day activities. We suggest a minimum of 100GB of local storage for this purpose.",
+  "source": "@site/docs/node/run-mainnet-node.mdx",
+  "sourceDirName": "node",
+  "slug": "/node/run-mainnet-node",
+  "permalink": "/docs/node/run-mainnet-node",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/node/run-mainnet-node.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "run-mainnet-node",
+    "title": "Run a Mainnet Node"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "RPCs",
+    "permalink": "/docs/node/rpcs"
+  },
+  "next": {
+    "title": "Run a Testnet Node",
+    "permalink": "/docs/node/run-testnet-node"
+  }
+}

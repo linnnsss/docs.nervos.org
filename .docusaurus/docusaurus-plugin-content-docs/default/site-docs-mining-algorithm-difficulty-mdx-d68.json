@@ -1,0 +1,28 @@
+{
+  "id": "mining/algorithm-difficulty",
+  "title": "Algorithm and Difficulty Adjustment",
+  "description": "CKB uses the NC-MAX consensus, an advancement of the Nakamoto consensus, with the independently developed mining algorithm, Eaglesong.",
+  "source": "@site/docs/mining/algorithm-difficulty.mdx",
+  "sourceDirName": "mining",
+  "slug": "/mining/algorithm-difficulty",
+  "permalink": "/docs/mining/algorithm-difficulty",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/mining/algorithm-difficulty.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "algorithm-difficulty",
+    "title": "Algorithm and Difficulty Adjustment"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Glossary",
+    "permalink": "/docs/tech-explanation/glossary"
+  },
+  "next": {
+    "title": "Rewards",
+    "permalink": "/docs/mining/rewards"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/outputs-data",
+  "title": "outputs_data",
+  "description": "An array of Cell data of each output Cell. The data of the i-th Cell in outputs is the i-th item in outputs_data. The actual data is kept separate from outputs to simplify CKB Script handling and to allow for future optimization.",
+  "source": "@site/docs/tech-explanation/outputs-data.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/outputs-data",
+  "permalink": "/docs/tech-explanation/outputs-data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/outputs-data.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "outputs-data",
+    "title": "outputs_data"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "outputs",
+    "permalink": "/docs/tech-explanation/outputs"
+  },
+  "next": {
+    "title": "Block",
+    "permalink": "/docs/tech-explanation/block"
+  }
+}

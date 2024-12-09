@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/intro-to-ckb-script-programming-9",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/intro-to-script-9.md",
+  "source": "@site/blog/intro-to-script-9.md",
+  "title": "Introduction to CKB Script Programming 9: Cycle Reductions in Duktape Script",
+  "description": "As shown earlier, plain JavaScript can be used to build CKB scripts. But if you have tried this route before, one problem you would notice, is that JavaScript based scripts tend to consume much more cycles than a native version. While this is less of an issue in experimenting, it is very real in production environment",
+  "date": "2020-03-19T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 10.6,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Xuejie Xiao",
+      "title": "blockchain engineer at Cryptape",
+      "url": "https://xuejie.space/about/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Introduction to CKB Script Programming 9: Cycle Reductions in Duktape Script",
+    "date": "2020-03-19",
+    "slug": "intro-to-ckb-script-programming-9",
+    "authors": [
+      {
+        "name": "Xuejie Xiao",
+        "title": "blockchain engineer at Cryptape",
+        "url": "https://xuejie.space/about/"
+      }
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Introduction to CKB Script Programming 8: Performant WASM",
+    "permalink": "/blog/intro-to-ckb-script-programming-8"
+  },
+  "nextItem": {
+    "title": "Introduction to CKB Script Programming 10: Language Choices",
+    "permalink": "/blog/intro-to-ckb-script-programming-10"
+  }
+}

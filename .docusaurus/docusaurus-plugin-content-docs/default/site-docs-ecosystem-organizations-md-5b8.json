@@ -1,0 +1,24 @@
+{
+  "id": "ecosystem/organizations",
+  "title": "Organizations",
+  "description": "Explore all the organizations and their relevant GitHub repositories within the decentralized Nervos ecosystem.",
+  "source": "@site/docs/ecosystem/organizations.md",
+  "sourceDirName": "ecosystem",
+  "slug": "/ecosystem/organizations",
+  "permalink": "/docs/ecosystem/organizations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/ecosystem/organizations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "organizations",
+    "title": "Organizations"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Projects",
+    "permalink": "/docs/ecosystem/projects"
+  }
+}

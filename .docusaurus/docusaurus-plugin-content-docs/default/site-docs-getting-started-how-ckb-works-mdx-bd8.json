@@ -1,0 +1,24 @@
+{
+  "id": "getting-started/how-ckb-works",
+  "title": "How CKB Works",
+  "description": "Whether you’re new to blockchain or have a technical background, this guide will help you understand how CKB works. We’ll explore the fundamental components—Cell Model, Scripts, Transaction, and CKB-VM—in a way that’s easy to grasp.",
+  "source": "@site/docs/getting-started/how-ckb-works.mdx",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/how-ckb-works",
+  "permalink": "/docs/getting-started/how-ckb-works",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/getting-started/how-ckb-works.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "how-ckb-works",
+    "title": "How CKB Works"
+  },
+  "sidebar": "tutorial",
+  "next": {
+    "title": "Quick Start (5min)",
+    "permalink": "/docs/getting-started/quick-start"
+  }
+}

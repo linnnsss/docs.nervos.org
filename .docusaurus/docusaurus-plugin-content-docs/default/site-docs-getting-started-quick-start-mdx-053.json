@@ -1,0 +1,28 @@
+{
+  "id": "getting-started/quick-start",
+  "title": "Quick Start (5min)",
+  "description": "We recommend using offCKB to quickly set up a local development environment using our pre-built boilerplates. This streamlined approach allows you to jumpstart your project efficiently without the hassle of manual configuration.",
+  "source": "@site/docs/getting-started/quick-start.mdx",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/quick-start",
+  "permalink": "/docs/getting-started/quick-start",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/getting-started/quick-start.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "quick-start",
+    "title": "Quick Start (5min)"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "How CKB Works",
+    "permalink": "/docs/getting-started/how-ckb-works"
+  },
+  "next": {
+    "title": "Installation Guide",
+    "permalink": "/docs/getting-started/installation-guide"
+  }
+}

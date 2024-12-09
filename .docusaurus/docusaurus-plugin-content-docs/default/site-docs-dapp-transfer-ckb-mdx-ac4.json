@@ -1,0 +1,28 @@
+{
+  "id": "dapp/transfer-ckb",
+  "title": "Transfer CKB",
+  "description": "Tutorial Overview",
+  "source": "@site/docs/dapp/transfer-ckb.mdx",
+  "sourceDirName": "dapp",
+  "slug": "/dapp/transfer-ckb",
+  "permalink": "/docs/dapp/transfer-ckb",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/dapp/transfer-ckb.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "transfer-ckb",
+    "title": "Transfer CKB"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Other Dev Tools",
+    "permalink": "/docs/sdk-and-devtool/devtool"
+  },
+  "next": {
+    "title": "Store Data on Cell",
+    "permalink": "/docs/dapp/store-data-on-cell"
+  }
+}

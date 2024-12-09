@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/transactions",
+  "title": "transactions",
+  "description": "An array of committed transactions contained in the block. Each element of this array has the same structure as the transaction structure. The first transaction must be the cellbase.",
+  "source": "@site/docs/tech-explanation/transactions.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/transactions",
+  "permalink": "/docs/tech-explanation/transactions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/transactions.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "transactions",
+    "title": "transactions"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "RawHeader",
+    "permalink": "/docs/tech-explanation/rawheader"
+  },
+  "next": {
+    "title": "uncles",
+    "permalink": "/docs/tech-explanation/uncles"
+  }
+}

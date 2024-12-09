@@ -1,0 +1,28 @@
+{
+  "id": "serialization/example-role-playing-game",
+  "title": "Example: A Role-Playing Game",
+  "description": "As an example, we’ve developed a role-playing game consisting of 4 schema files:",
+  "source": "@site/docs/serialization/example-role-playing-game.mdx",
+  "sourceDirName": "serialization",
+  "slug": "/serialization/example-role-playing-game",
+  "permalink": "/docs/serialization/example-role-playing-game",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/serialization/example-role-playing-game.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "example-role-playing-game",
+    "title": "Example: A Role-Playing Game"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Encoding Spec With Examples",
+    "permalink": "/docs/serialization/encoding-specs"
+  },
+  "next": {
+    "title": "How to Sign a Transaction",
+    "permalink": "/docs/how-tos/how-to-sign-a-tx"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "script/type-id",
+  "title": "Tutorial: Upgradable Scripts with Type ID",
+  "description": "Scripts are codes that execute on-chain and cannot be stopped. However, sometimes you might want to ensure your Script is upgradable in case there are bugs in the source code.",
+  "source": "@site/docs/script/type-id.mdx",
+  "sourceDirName": "script",
+  "slug": "/script/type-id",
+  "permalink": "/docs/script/type-id",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/script/type-id.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "type-id",
+    "title": "Tutorial: Upgradable Scripts with Type ID"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Tutorial: Spawn Script",
+    "permalink": "/docs/script/spawn-script"
+  },
+  "next": {
+    "title": "Tutorial: Run JS on CKB",
+    "permalink": "/docs/script/js-script"
+  }
+}

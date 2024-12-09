@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/nervos-blockchain",
+  "title": "Nervos Blockchain",
+  "description": "What is the Nervos Blockchain?",
+  "source": "@site/docs/tech-explanation/nervos-blockchain.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/nervos-blockchain",
+  "permalink": "/docs/tech-explanation/nervos-blockchain",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/nervos-blockchain.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "nervos-blockchain",
+    "title": "Nervos Blockchain"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Intro to Hard Fork",
+    "permalink": "/docs/history-and-hard-forks/intro-to-hard-fork"
+  },
+  "next": {
+    "title": "Cell",
+    "permalink": "/docs/tech-explanation/cell"
+  }
+}

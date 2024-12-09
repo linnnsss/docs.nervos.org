@@ -1,0 +1,28 @@
+{
+  "id": "serialization/schema-language",
+  "title": "Molecule Schema Language",
+  "description": "Grammar",
+  "source": "@site/docs/serialization/schema-language.mdx",
+  "sourceDirName": "serialization",
+  "slug": "/serialization/schema-language",
+  "permalink": "/docs/serialization/schema-language",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/serialization/schema-language.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "schema-language",
+    "title": "Molecule Schema Language"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Molecule Tools",
+    "permalink": "/docs/serialization/tools-molecule"
+  },
+  "next": {
+    "title": "Encoding Spec With Examples",
+    "permalink": "/docs/serialization/encoding-specs"
+  }
+}

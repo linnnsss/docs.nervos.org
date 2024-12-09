@@ -1,0 +1,28 @@
+{
+  "id": "integrate-wallets/joyid",
+  "title": "JoyID",
+  "description": "Integrate Wallet (JoyID)",
+  "source": "@site/docs/integrate-wallets/integrate-joyid.mdx",
+  "sourceDirName": "integrate-wallets",
+  "slug": "/integrate-wallets/joyid",
+  "permalink": "/docs/integrate-wallets/joyid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/integrate-wallets/integrate-joyid.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "joyid",
+    "title": "JoyID"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Wallet Connector(CCC)",
+    "permalink": "/docs/integrate-wallets/ccc-wallet"
+  },
+  "next": {
+    "title": "Omnilock Script",
+    "permalink": "/docs/common-scripts/omnilock"
+  }
+}

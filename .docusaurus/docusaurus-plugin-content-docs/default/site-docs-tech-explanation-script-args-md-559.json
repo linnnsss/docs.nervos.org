@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/script-args",
+  "title": "script_args",
+  "description": "scriptargs refers to the arguments imported into the CKB-VM instance as input for the Scripts. In CKB, public key information is conventionally stored in scriptargs, while signature information is in witnesses, though it's not mandatory.",
+  "source": "@site/docs/tech-explanation/script-args.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/script-args",
+  "permalink": "/docs/tech-explanation/script-args",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/script-args.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "script-args",
+    "title": "script_args"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "hash_type",
+    "permalink": "/docs/tech-explanation/hash-type"
+  },
+  "next": {
+    "title": "Lock Script",
+    "permalink": "/docs/tech-explanation/lock-script"
+  }
+}

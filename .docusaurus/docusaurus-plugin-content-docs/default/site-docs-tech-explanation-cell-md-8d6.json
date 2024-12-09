@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/cell",
+  "title": "Cell",
+  "description": "Structure",
+  "source": "@site/docs/tech-explanation/cell.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/cell",
+  "permalink": "/docs/tech-explanation/cell",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/cell.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "cell",
+    "title": "Cell"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Nervos Blockchain",
+    "permalink": "/docs/tech-explanation/nervos-blockchain"
+  },
+  "next": {
+    "title": "Cell Model",
+    "permalink": "/docs/tech-explanation/cell-model"
+  }
+}

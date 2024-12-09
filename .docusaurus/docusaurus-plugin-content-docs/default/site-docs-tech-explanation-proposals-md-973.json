@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/proposals",
+  "title": "proposals",
+  "description": "proposals refer to an array of hex-encoded short transaction IDs that represent proposed transactions within a block or its uncle blocks. A transaction proposal ID is the first 10 bytes of the transaction hash. In CKB, the transaction proposal ID must be proposed before a transaction can be committed to the blockchain.",
+  "source": "@site/docs/tech-explanation/proposals.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/proposals",
+  "permalink": "/docs/tech-explanation/proposals",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/proposals.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "proposals",
+    "title": "proposals"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "uncles",
+    "permalink": "/docs/tech-explanation/uncles"
+  },
+  "next": {
+    "title": "CKB Address",
+    "permalink": "/docs/tech-explanation/ckb-address"
+  }
+}

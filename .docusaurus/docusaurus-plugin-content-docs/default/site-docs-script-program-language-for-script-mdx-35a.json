@@ -1,0 +1,28 @@
+{
+  "id": "script/program-language-for-script",
+  "title": "Program Languages for Script",
+  "description": "We have learned what a Script is and how a Script works. So, how do we write a Script then? What kind of programming language do I need to use?",
+  "source": "@site/docs/script/program-language-for-script.mdx",
+  "sourceDirName": "script",
+  "slug": "/script/program-language-for-script",
+  "permalink": "/docs/script/program-language-for-script",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/script/program-language-for-script.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "program-language-for-script",
+    "title": "Program Languages for Script"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Intro to Script",
+    "permalink": "/docs/script/intro-to-script"
+  },
+  "next": {
+    "title": "CKB Syscalls for Script",
+    "permalink": "/docs/script/syscalls-for-script"
+  }
+}

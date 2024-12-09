@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/consensus",
+  "title": "Consensus",
+  "description": "Consensus in Nervos refers to a state of agreement among participants on the blockchain’s history and current state. The state encompasses data such as each user's CKBytes holdings and their respective digital assets.",
+  "source": "@site/docs/tech-explanation/consensus.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/consensus",
+  "permalink": "/docs/tech-explanation/consensus",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/consensus.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "consensus",
+    "title": "Consensus"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "CKB-VM",
+    "permalink": "/docs/tech-explanation/ckb-vm"
+  },
+  "next": {
+    "title": "Tokenomics",
+    "permalink": "/docs/tech-explanation/economics"
+  }
+}

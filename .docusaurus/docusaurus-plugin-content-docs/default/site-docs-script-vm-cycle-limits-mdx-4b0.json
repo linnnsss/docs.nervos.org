@@ -1,0 +1,28 @@
+{
+  "id": "script/vm-cycle-limits",
+  "title": "VM Cycle Limits",
+  "description": "Cycle limits are used to regulate VM Scripts. CKB-VM is a flexible VM that can implement many control flow constructs, such as loops or branches. As a result, we need to enforce certain rules in CKB-VM to prevent malicious Scripts, such as those with infinite loops.",
+  "source": "@site/docs/script/vm-cycle-limits.mdx",
+  "sourceDirName": "script",
+  "slug": "/script/vm-cycle-limits",
+  "permalink": "/docs/script/vm-cycle-limits",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/script/vm-cycle-limits.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "vm-cycle-limits",
+    "title": "VM Cycle Limits"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "CKB Syscalls for Script",
+    "permalink": "/docs/script/syscalls-for-script"
+  },
+  "next": {
+    "title": "Tutorial: A Minimal Script",
+    "permalink": "/docs/script/minimal-script"
+  }
+}

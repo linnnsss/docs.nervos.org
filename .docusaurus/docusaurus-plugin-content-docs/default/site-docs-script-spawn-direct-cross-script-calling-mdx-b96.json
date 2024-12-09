@@ -1,0 +1,28 @@
+{
+  "id": "script/spawn-cross-script-calling",
+  "title": "Spawn: Direct Cross-Script Calling",
+  "description": "The Meepo hard fork in 2024 has introduced a range of enhancements into CKB Script development, with one major innovation being Spawn.",
+  "source": "@site/docs/script/spawn-direct-cross-script-calling.mdx",
+  "sourceDirName": "script",
+  "slug": "/script/spawn-cross-script-calling",
+  "permalink": "/docs/script/spawn-cross-script-calling",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/script/spawn-direct-cross-script-calling.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "spawn-cross-script-calling",
+    "title": "Spawn: Direct Cross-Script Calling"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Type ID: Upgradable Scripts",
+    "permalink": "/docs/script/type-id"
+  },
+  "next": {
+    "title": "Debug Script",
+    "permalink": "/docs/script/debug-script"
+  }
+}

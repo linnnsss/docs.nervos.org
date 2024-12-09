@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/economics",
+  "title": "Tokenomics",
+  "description": "CKByte Tokenomics",
+  "source": "@site/docs/tech-explanation/economics.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/economics",
+  "permalink": "/docs/tech-explanation/economics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/economics.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "economics",
+    "title": "Tokenomics"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Consensus",
+    "permalink": "/docs/tech-explanation/consensus"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/docs/tech-explanation/glossary"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "serialization/use-in-ckb-scripts",
+  "title": "Use in CKB Scripts",
+  "description": "When Molecule Rust library is used in CKB Scripts, no-std needs to be specified.",
+  "source": "@site/docs/serialization/use-in-ckb-scripts.mdx",
+  "sourceDirName": "serialization",
+  "slug": "/serialization/use-in-ckb-scripts",
+  "permalink": "/docs/serialization/use-in-ckb-scripts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/serialization/use-in-ckb-scripts.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "use-in-ckb-scripts",
+    "title": "Use in CKB Scripts"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Rust Library Features",
+    "permalink": "/docs/serialization/features-molecule"
+  },
+  "next": {
+    "title": "Molecule Tools",
+    "permalink": "/docs/serialization/tools-molecule"
+  }
+}

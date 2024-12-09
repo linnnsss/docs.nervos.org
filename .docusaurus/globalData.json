@@ -1,0 +1,552 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "getting-started/how-ckb-works",
+          "docs": [
+            {
+              "id": "common-scripts/omnilock",
+              "path": "/docs/common-scripts/omnilock",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "common-scripts/spore-dob-0",
+              "path": "/docs/common-scripts/spore-dob-0",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "common-scripts/spore-protocol",
+              "path": "/docs/common-scripts/spore-protocol",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "common-scripts/xudt",
+              "path": "/docs/common-scripts/xudt",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "dapp/create-dob",
+              "path": "/docs/dapp/create-dob",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "dapp/create-token",
+              "path": "/docs/dapp/create-token",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "dapp/simple-lock",
+              "path": "/docs/dapp/simple-lock",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "dapp/store-data-on-cell",
+              "path": "/docs/dapp/store-data-on-cell",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "dapp/transfer-ckb",
+              "path": "/docs/dapp/transfer-ckb",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "ecosystem/organizations",
+              "path": "/docs/ecosystem/organizations",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "ecosystem/projects",
+              "path": "/docs/ecosystem/projects",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "getting-started/blockchain-networks",
+              "path": "/docs/getting-started/blockchain-networks",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "getting-started/ckb-vs-btc",
+              "path": "/docs/getting-started/ckb-vs-btc",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "getting-started/how-ckb-works",
+              "path": "/docs/getting-started/how-ckb-works",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "getting-started/installation-guide",
+              "path": "/docs/getting-started/installation-guide",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "getting-started/quick-start",
+              "path": "/docs/getting-started/quick-start",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "history-and-hard-forks/intro-to-hard-fork",
+              "path": "/docs/history-and-hard-forks/intro-to-hard-fork",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "how-tos/how-to-calculate-code-hash",
+              "path": "/docs/how-tos/how-to-calculate-code-hash",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "how-tos/how-to-calculate-script-hash",
+              "path": "/docs/how-tos/how-to-calculate-script-hash",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "how-tos/how-to-calculate-tx-hash",
+              "path": "/docs/how-tos/how-to-calculate-tx-hash",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "how-tos/how-to-query-tx-state",
+              "path": "/docs/how-tos/how-to-query-tx-state",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "how-tos/how-to-sign-a-tx",
+              "path": "/docs/how-tos/how-to-sign-a-tx",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "integrate-wallets/ccc-wallet",
+              "path": "/docs/integrate-wallets/ccc-wallet",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "integrate-wallets/intro-to-wallets",
+              "path": "/docs/integrate-wallets/intro-to-wallets",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "integrate-wallets/joyid",
+              "path": "/docs/integrate-wallets/joyid",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "mining/algorithm-difficulty",
+              "path": "/docs/mining/algorithm-difficulty",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "mining/cost-and-profit",
+              "path": "/docs/mining/cost-and-profit",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "mining/guide",
+              "path": "/docs/mining/guide",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "mining/halving",
+              "path": "/docs/mining/halving",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "mining/hardware",
+              "path": "/docs/mining/hardware",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "mining/info-stats",
+              "path": "/docs/mining/info-stats",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "mining/rewards",
+              "path": "/docs/mining/rewards",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "mining/risks",
+              "path": "/docs/mining/risks",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "node/rpcs",
+              "path": "/docs/node/rpcs",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "node/run-devnet-node",
+              "path": "/docs/node/run-devnet-node",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "node/run-mainnet-node",
+              "path": "/docs/node/run-mainnet-node",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "node/run-public-rpc-node",
+              "path": "/docs/node/run-public-rpc-node",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "node/run-testnet-node",
+              "path": "/docs/node/run-testnet-node",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "script/common-script-error-code",
+              "path": "/docs/script/common-script-error-code",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "script/debug-script",
+              "path": "/docs/script/debug-script",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "script/intro-to-script",
+              "path": "/docs/script/intro-to-script",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "script/js-script",
+              "path": "/docs/script/js-script",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "script/minimal-script",
+              "path": "/docs/script/minimal-script",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "script/program-language-for-script",
+              "path": "/docs/script/program-language-for-script",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "script/spawn-script",
+              "path": "/docs/script/spawn-script",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "script/sudt-script",
+              "path": "/docs/script/sudt-script",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "script/syscalls-for-script",
+              "path": "/docs/script/syscalls-for-script",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "script/type-id",
+              "path": "/docs/script/type-id",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "script/vm-cycle-limits",
+              "path": "/docs/script/vm-cycle-limits",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "sdk-and-devtool/ccc",
+              "path": "/docs/sdk-and-devtool/ccc",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "sdk-and-devtool/ckb-cli",
+              "path": "/docs/sdk-and-devtool/ckb-cli",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "sdk-and-devtool/devtool",
+              "path": "/docs/sdk-and-devtool/devtool",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "sdk-and-devtool/go",
+              "path": "/docs/sdk-and-devtool/go",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "sdk-and-devtool/java",
+              "path": "/docs/sdk-and-devtool/java",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "sdk-and-devtool/lumos",
+              "path": "/docs/sdk-and-devtool/lumos",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "sdk-and-devtool/offckb",
+              "path": "/docs/sdk-and-devtool/offckb",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "sdk-and-devtool/rust",
+              "path": "/docs/sdk-and-devtool/rust",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "serialization/encoding-specs",
+              "path": "/docs/serialization/encoding-specs",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "serialization/example-role-playing-game",
+              "path": "/docs/serialization/example-role-playing-game",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "serialization/features-molecule",
+              "path": "/docs/serialization/features-molecule",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "serialization/schema-language",
+              "path": "/docs/serialization/schema-language",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "serialization/serialization-molecule-in-ckb",
+              "path": "/docs/serialization/serialization-molecule-in-ckb",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "serialization/tools-molecule",
+              "path": "/docs/serialization/tools-molecule",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "serialization/use-in-ckb-scripts",
+              "path": "/docs/serialization/use-in-ckb-scripts",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/block",
+              "path": "/docs/tech-explanation/block",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/capacity",
+              "path": "/docs/tech-explanation/capacity",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/cell",
+              "path": "/docs/tech-explanation/cell",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/cell-deps",
+              "path": "/docs/tech-explanation/cell-deps",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/cell-model",
+              "path": "/docs/tech-explanation/cell-model",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/cellinput",
+              "path": "/docs/tech-explanation/cellinput",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/ckb-address",
+              "path": "/docs/tech-explanation/ckb-address",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/ckb-vm",
+              "path": "/docs/tech-explanation/ckb-vm",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/ckbhash",
+              "path": "/docs/tech-explanation/ckbhash",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/code-hash",
+              "path": "/docs/tech-explanation/code-hash",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/consensus",
+              "path": "/docs/tech-explanation/consensus",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/dep-group",
+              "path": "/docs/tech-explanation/dep-group",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/dep-type",
+              "path": "/docs/tech-explanation/dep-type",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/economics",
+              "path": "/docs/tech-explanation/economics",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/glossary",
+              "path": "/docs/tech-explanation/glossary",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/hash-type",
+              "path": "/docs/tech-explanation/hash-type",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/header",
+              "path": "/docs/tech-explanation/header",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/header-dep",
+              "path": "/docs/tech-explanation/header-dep",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/lock-script",
+              "path": "/docs/tech-explanation/lock-script",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/lock-type-diff",
+              "path": "/docs/tech-explanation/lock-type-diff",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/nervos-blockchain",
+              "path": "/docs/tech-explanation/nervos-blockchain",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/out-point",
+              "path": "/docs/tech-explanation/out-point",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/outpoint",
+              "path": "/docs/tech-explanation/outpoint",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/outputs",
+              "path": "/docs/tech-explanation/outputs",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/outputs-data",
+              "path": "/docs/tech-explanation/outputs-data",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/previous-output",
+              "path": "/docs/tech-explanation/previous-output",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/proposals",
+              "path": "/docs/tech-explanation/proposals",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/rawheader",
+              "path": "/docs/tech-explanation/rawheader",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/script",
+              "path": "/docs/tech-explanation/script",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/script-args",
+              "path": "/docs/tech-explanation/script-args",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/script-group-exe",
+              "path": "/docs/tech-explanation/script-group-exe",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/since",
+              "path": "/docs/tech-explanation/since",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/transaction",
+              "path": "/docs/tech-explanation/transaction",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/transactions",
+              "path": "/docs/tech-explanation/transactions",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/type-script",
+              "path": "/docs/tech-explanation/type-script",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/uncles",
+              "path": "/docs/tech-explanation/uncles",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "tech-explanation/witness",
+              "path": "/docs/tech-explanation/witness",
+              "sidebar": "tutorial"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorial": {
+              "link": {
+                "path": "/docs/getting-started/how-ckb-works",
+                "label": "getting-started/how-ckb-works"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": false
+    }
+  },
+  "docusaurus-plugin-google-gtag": {
+    "default": {
+      "trackingID": [
+        "G-Q42TXTFP46"
+      ],
+      "anonymizeIP": true,
+      "id": "default"
+    }
+  },
+  "@cmfcmf/docusaurus-search-local": {
+    "default": {
+      "titleBoost": 5,
+      "contentBoost": 1,
+      "tagsBoost": 3,
+      "parentCategoriesBoost": 2,
+      "indexDocSidebarParentCategories": 0,
+      "maxSearchResults": 8
+    }
+  }
+}

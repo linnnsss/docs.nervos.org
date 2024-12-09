@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/lock-type-diff",
+  "title": "Lock Script vs. Type Script: The Difference",
+  "description": "Type Script is similar to Lock Script, with two differences:",
+  "source": "@site/docs/tech-explanation/lock-type-diff.mdx",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/lock-type-diff",
+  "permalink": "/docs/tech-explanation/lock-type-diff",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/lock-type-diff.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "lock-type-diff",
+    "title": "Lock Script vs. Type Script: The Difference"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Type Script",
+    "permalink": "/docs/tech-explanation/type-script"
+  },
+  "next": {
+    "title": "Script Group Execution",
+    "permalink": "/docs/tech-explanation/script-group-exe"
+  }
+}

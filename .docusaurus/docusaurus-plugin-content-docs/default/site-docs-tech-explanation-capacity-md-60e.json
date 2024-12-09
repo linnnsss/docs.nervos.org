@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/capacity",
+  "title": "Capacity",
+  "description": "Capacity is the storage limit of a Cell in a transaction. Capacity refers to both the quantity of stored tokens and the maximum amount of data the Cell can hold. The capacity of a Cell determines its ability to store various fields, including data, lock, type, and its own capacity.",
+  "source": "@site/docs/tech-explanation/capacity.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/capacity",
+  "permalink": "/docs/tech-explanation/capacity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/capacity.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "capacity",
+    "title": "Capacity"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Cell Model",
+    "permalink": "/docs/tech-explanation/cell-model"
+  },
+  "next": {
+    "title": "Script",
+    "permalink": "/docs/tech-explanation/script"
+  }
+}

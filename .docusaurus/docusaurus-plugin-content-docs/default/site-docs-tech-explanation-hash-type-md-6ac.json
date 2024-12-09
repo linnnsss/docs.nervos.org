@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/hash-type",
+  "title": "hash_type",
+  "description": "hashtype defines the interpretation of the codehash when looking for matching dep Cells.",
+  "source": "@site/docs/tech-explanation/hash-type.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/hash-type",
+  "permalink": "/docs/tech-explanation/hash-type",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/hash-type.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "hash-type",
+    "title": "hash_type"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "code_hash",
+    "permalink": "/docs/tech-explanation/code-hash"
+  },
+  "next": {
+    "title": "script_args",
+    "permalink": "/docs/tech-explanation/script-args"
+  }
+}

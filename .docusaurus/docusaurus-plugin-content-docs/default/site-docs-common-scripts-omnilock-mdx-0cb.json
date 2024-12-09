@@ -1,0 +1,28 @@
+{
+  "id": "common-scripts/omnilock",
+  "title": "Omnilock Script",
+  "description": "Omnilock is a Lock Script designed for interoperability. It comes with built-in support for verification of transaction signing methods used in Bitcoin, Ethereum, EOS, Dogecoin and more. It also includes a regulation compliance module, which allows an administrator to revoke tokens held by users under certain circumstances.",
+  "source": "@site/docs/common-scripts/omnilock.mdx",
+  "sourceDirName": "common-scripts",
+  "slug": "/common-scripts/omnilock",
+  "permalink": "/docs/common-scripts/omnilock",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/common-scripts/omnilock.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "omnilock",
+    "title": "Omnilock Script"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "JoyID",
+    "permalink": "/docs/integrate-wallets/joyid"
+  },
+  "next": {
+    "title": "xUDT Script",
+    "permalink": "/docs/common-scripts/xudt"
+  }
+}

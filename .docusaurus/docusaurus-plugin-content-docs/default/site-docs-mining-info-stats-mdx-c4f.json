@@ -1,0 +1,28 @@
+{
+  "id": "mining/info-stats",
+  "title": "Info and Stats",
+  "description": "CKB Hash Rates Overview in Major Pools",
+  "source": "@site/docs/mining/info-stats.mdx",
+  "sourceDirName": "mining",
+  "slug": "/mining/info-stats",
+  "permalink": "/docs/mining/info-stats",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/mining/info-stats.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "info-stats",
+    "title": "Info and Stats"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Guide",
+    "permalink": "/docs/mining/guide"
+  },
+  "next": {
+    "title": "Projects",
+    "permalink": "/docs/ecosystem/projects"
+  }
+}

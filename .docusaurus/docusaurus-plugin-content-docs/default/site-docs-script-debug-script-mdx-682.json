@@ -1,0 +1,28 @@
+{
+  "id": "script/debug-script",
+  "title": "Debug Script",
+  "description": "<TutorialHeader",
+  "source": "@site/docs/script/debug-script.mdx",
+  "sourceDirName": "script",
+  "slug": "/script/debug-script",
+  "permalink": "/docs/script/debug-script",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/script/debug-script.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "debug-script",
+    "title": "Debug Script"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Tutorial: Run JS on CKB",
+    "permalink": "/docs/script/js-script"
+  },
+  "next": {
+    "title": "Common Script Error Code",
+    "permalink": "/docs/script/common-script-error-code"
+  }
+}

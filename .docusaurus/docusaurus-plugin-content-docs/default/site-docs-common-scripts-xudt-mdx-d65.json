@@ -1,0 +1,28 @@
+{
+  "id": "common-scripts/xudt",
+  "title": "xUDT Script",
+  "description": "Extensible UDT(xUDT) is the User-Defined-Token(fungible token) Script implementation on CKB. When issuing tokens, most developers use xUDT as the Script. You can think of it as the ERC-20 smart contract on Ethereum. There is also a dApp tutorial on creating a fungible token using the xUDT Script.",
+  "source": "@site/docs/common-scripts/xudt.mdx",
+  "sourceDirName": "common-scripts",
+  "slug": "/common-scripts/xudt",
+  "permalink": "/docs/common-scripts/xudt",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/common-scripts/xudt.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "xudt",
+    "title": "xUDT Script"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Omnilock Script",
+    "permalink": "/docs/common-scripts/omnilock"
+  },
+  "next": {
+    "title": "Spore Protocol",
+    "permalink": "/docs/common-scripts/spore-protocol"
+  }
+}

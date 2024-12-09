@@ -1,0 +1,28 @@
+{
+  "id": "script/intro-to-script",
+  "title": "Intro to Script",
+  "description": "A Script in Nervos CKB is a binary executable that can be executed on-chain. It is Turing-complete and can perform arbitrary logic to guard and protect your on-chain assets. You can think of it as smart contract.",
+  "source": "@site/docs/script/intro-to-script.mdx",
+  "sourceDirName": "script",
+  "slug": "/script/intro-to-script",
+  "permalink": "/docs/script/intro-to-script",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/script/intro-to-script.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "intro-to-script",
+    "title": "Intro to Script"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Build a Simple Lock",
+    "permalink": "/docs/dapp/simple-lock"
+  },
+  "next": {
+    "title": "Program Languages for Script",
+    "permalink": "/docs/script/program-language-for-script"
+  }
+}

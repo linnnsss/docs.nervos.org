@@ -1,0 +1,28 @@
+{
+  "id": "history-and-hard-forks/intro-to-hard-fork",
+  "title": "Intro to Hard Fork",
+  "description": "What is a Hard Fork?",
+  "source": "@site/docs/history-and-hard-forks/intro-to-hard-fork.mdx",
+  "sourceDirName": "history-and-hard-forks",
+  "slug": "/history-and-hard-forks/intro-to-hard-fork",
+  "permalink": "/docs/history-and-hard-forks/intro-to-hard-fork",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/history-and-hard-forks/intro-to-hard-fork.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "intro-to-hard-fork",
+    "title": "Intro to Hard Fork"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "How to Calculate Code Hash",
+    "permalink": "/docs/how-tos/how-to-calculate-code-hash"
+  },
+  "next": {
+    "title": "Nervos Blockchain",
+    "permalink": "/docs/tech-explanation/nervos-blockchain"
+  }
+}

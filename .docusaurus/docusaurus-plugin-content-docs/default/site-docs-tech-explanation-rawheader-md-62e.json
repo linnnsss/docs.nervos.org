@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/rawheader",
+  "title": "RawHeader",
+  "description": "RawHeader is the payload of the block header.",
+  "source": "@site/docs/tech-explanation/rawheader.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/rawheader",
+  "permalink": "/docs/tech-explanation/rawheader",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/rawheader.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "rawheader",
+    "title": "RawHeader"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "header",
+    "permalink": "/docs/tech-explanation/header"
+  },
+  "next": {
+    "title": "transactions",
+    "permalink": "/docs/tech-explanation/transactions"
+  }
+}

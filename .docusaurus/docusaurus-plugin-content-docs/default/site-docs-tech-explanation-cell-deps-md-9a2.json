@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/cell-deps",
+  "title": "Cell_deps",
+  "description": "Cell_deps allows Scripts in the transaction to access referenced Live Cells. Cells listed here are all live and read-only.",
+  "source": "@site/docs/tech-explanation/cell-deps.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/cell-deps",
+  "permalink": "/docs/tech-explanation/cell-deps",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/cell-deps.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "cell-deps",
+    "title": "Cell_deps"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Transaction",
+    "permalink": "/docs/tech-explanation/transaction"
+  },
+  "next": {
+    "title": "out_point",
+    "permalink": "/docs/tech-explanation/out-point"
+  }
+}

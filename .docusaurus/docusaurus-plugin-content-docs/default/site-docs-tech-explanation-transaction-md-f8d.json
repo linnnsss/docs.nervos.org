@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/transaction",
+  "title": "Transaction",
+  "description": "A transaction in CKB destroys some Cells (outputs from previous transactions) and generates new ones.",
+  "source": "@site/docs/tech-explanation/transaction.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/transaction",
+  "permalink": "/docs/tech-explanation/transaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/transaction.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "transaction",
+    "title": "Transaction"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "ckbhash",
+    "permalink": "/docs/tech-explanation/ckbhash"
+  },
+  "next": {
+    "title": "Cell_deps",
+    "permalink": "/docs/tech-explanation/cell-deps"
+  }
+}

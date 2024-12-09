@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/lock-script",
+  "title": "Lock Script",
+  "description": "This defines the Script that determines the ownership of a Cell, used to govern the logic associated with Cell ownership.",
+  "source": "@site/docs/tech-explanation/lock-script.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/lock-script",
+  "permalink": "/docs/tech-explanation/lock-script",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/lock-script.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "lock-script",
+    "title": "Lock Script"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "script_args",
+    "permalink": "/docs/tech-explanation/script-args"
+  },
+  "next": {
+    "title": "Type Script",
+    "permalink": "/docs/tech-explanation/type-script"
+  }
+}

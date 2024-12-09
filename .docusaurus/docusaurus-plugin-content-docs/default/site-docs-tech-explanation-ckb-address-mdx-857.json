@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/ckb-address",
+  "title": "CKB Address",
+  "description": "CKB address packages the Lock Script into a single line of verifiable and human-readable format, adhering to Bitcoin's Bech32m address format (BIP-350). In this format, the Lock Script consists of three key parameters: codehash, hashtype, and args.",
+  "source": "@site/docs/tech-explanation/ckb-address.mdx",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/ckb-address",
+  "permalink": "/docs/tech-explanation/ckb-address",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/ckb-address.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "ckb-address",
+    "title": "CKB Address"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "proposals",
+    "permalink": "/docs/tech-explanation/proposals"
+  },
+  "next": {
+    "title": "CKB-VM",
+    "permalink": "/docs/tech-explanation/ckb-vm"
+  }
+}

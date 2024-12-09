@@ -1,0 +1,28 @@
+{
+  "id": "script/common-script-error-code",
+  "title": "Common Script Error Code",
+  "description": "CKB defines some basic error codes:",
+  "source": "@site/docs/script/common-script-error-code.mdx",
+  "sourceDirName": "script",
+  "slug": "/script/common-script-error-code",
+  "permalink": "/docs/script/common-script-error-code",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/script/common-script-error-code.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "common-script-error-code",
+    "title": "Common Script Error Code"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Debug Script",
+    "permalink": "/docs/script/debug-script"
+  },
+  "next": {
+    "title": "Intro to Wallets",
+    "permalink": "/docs/integrate-wallets/intro-to-wallets"
+  }
+}

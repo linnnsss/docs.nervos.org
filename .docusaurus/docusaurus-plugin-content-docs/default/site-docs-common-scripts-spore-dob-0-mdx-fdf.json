@@ -1,0 +1,28 @@
+{
+  "id": "common-scripts/spore-dob-0",
+  "title": "Spore-DOB-0",
+  "description": "The Spore Protocol stores value in Cells, while the Spore DOB Protocol Family built on this by interpreting and combining these Cells. The family includes protocols like DOB/0, DOB/1 or DOB/2. Spore DOB-0 is the first implementation, specifing the configuration method and interface format for decoders and providing a universal decoder to simplify development.",
+  "source": "@site/docs/common-scripts/spore-dob-0.mdx",
+  "sourceDirName": "common-scripts",
+  "slug": "/common-scripts/spore-dob-0",
+  "permalink": "/docs/common-scripts/spore-dob-0",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/common-scripts/spore-dob-0.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "spore-dob-0",
+    "title": "Spore-DOB-0"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Spore Protocol",
+    "permalink": "/docs/common-scripts/spore-protocol"
+  },
+  "next": {
+    "title": "RPCs",
+    "permalink": "/docs/node/rpcs"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "serialization/serialization-molecule-in-ckb",
+  "title": "Serilization and Molecule in CKB",
+  "description": "Serialization refers to the conversion of data structures into a format that facilitates easy storage, transmission, and reconstruction. In Nervos CKB, serialization must ensure stability, consistency, and efficiency. These requirements are essential for maintaining data integrity and ensuring smooth data operations.",
+  "source": "@site/docs/serialization/serialization-molecule-in-ckb.mdx",
+  "sourceDirName": "serialization",
+  "slug": "/serialization/serialization-molecule-in-ckb",
+  "permalink": "/docs/serialization/serialization-molecule-in-ckb",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/serialization/serialization-molecule-in-ckb.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "serialization-molecule-in-ckb",
+    "title": "Serilization and Molecule in CKB"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Run a Public RPC Node",
+    "permalink": "/docs/node/run-public-rpc-node"
+  },
+  "next": {
+    "title": "Rust Library Features",
+    "permalink": "/docs/serialization/features-molecule"
+  }
+}

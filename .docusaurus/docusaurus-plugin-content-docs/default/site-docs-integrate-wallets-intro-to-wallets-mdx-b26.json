@@ -1,0 +1,28 @@
+{
+  "id": "integrate-wallets/intro-to-wallets",
+  "title": "Intro to Wallets",
+  "description": "Essential insights for CKB dApp developers, covering wallet choices, address specifics, and CKB transfer guidelines",
+  "source": "@site/docs/integrate-wallets/intro-to-wallets.mdx",
+  "sourceDirName": "integrate-wallets",
+  "slug": "/integrate-wallets/intro-to-wallets",
+  "permalink": "/docs/integrate-wallets/intro-to-wallets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/integrate-wallets/intro-to-wallets.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "intro-to-wallets",
+    "title": "Intro to Wallets"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Common Script Error Code",
+    "permalink": "/docs/script/common-script-error-code"
+  },
+  "next": {
+    "title": "Wallet Connector(CCC)",
+    "permalink": "/docs/integrate-wallets/ccc-wallet"
+  }
+}

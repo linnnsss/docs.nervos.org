@@ -1,0 +1,28 @@
+{
+  "id": "serialization/features-molecule",
+  "title": "Rust Library Features",
+  "description": "Molecule is developed in Rust language. The default feature in the Rust library is enabled by default, including std feature and more:",
+  "source": "@site/docs/serialization/features.mdx",
+  "sourceDirName": "serialization",
+  "slug": "/serialization/features-molecule",
+  "permalink": "/docs/serialization/features-molecule",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/serialization/features.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "features-molecule",
+    "title": "Rust Library Features"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Serilization and Molecule in CKB",
+    "permalink": "/docs/serialization/serialization-molecule-in-ckb"
+  },
+  "next": {
+    "title": "Use in CKB Scripts",
+    "permalink": "/docs/serialization/use-in-ckb-scripts"
+  }
+}

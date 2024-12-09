@@ -1,0 +1,28 @@
+{
+  "id": "history-and-hard-forks/history-vm-version",
+  "title": "History VM Version",
+  "description": "The CKB network has introduced various CKB-VM versions over time to enhance security, performance, resolve bugs, and support new RISC-V extensions. This article lists all versions of the CKB-VM from previous hard fork events.",
+  "source": "@site/docs/history-and-hard-forks/history-vm-version.mdx",
+  "sourceDirName": "history-and-hard-forks",
+  "slug": "/history-and-hard-forks/history-vm-version",
+  "permalink": "/docs/history-and-hard-forks/history-vm-version",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/history-and-hard-forks/history-vm-version.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "history-vm-version",
+    "title": "History VM Version"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "CKB Hard Fork History",
+    "permalink": "/docs/history-and-hard-forks/ckb-hard-fork-history"
+  },
+  "next": {
+    "title": "Rethinking Forks",
+    "permalink": "/docs/history-and-hard-forks/rethinking-forks"
+  }
+}

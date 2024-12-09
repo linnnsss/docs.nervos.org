@@ -1,0 +1,28 @@
+{
+  "id": "sdk-and-devtool/rust",
+  "title": "Rust",
+  "description": "Introduction",
+  "source": "@site/docs/sdk-and-devtool/rust.mdx",
+  "sourceDirName": "sdk-and-devtool",
+  "slug": "/sdk-and-devtool/rust",
+  "permalink": "/docs/sdk-and-devtool/rust",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/sdk-and-devtool/rust.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "rust",
+    "title": "Rust"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "CKB vs. BTC",
+    "permalink": "/docs/getting-started/ckb-vs-btc"
+  },
+  "next": {
+    "title": "Go",
+    "permalink": "/docs/sdk-and-devtool/go"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "script/syscalls-for-script",
+  "title": "CKB Syscalls for Script",
+  "description": "A collection of CKB-VM syscalls. Also include relevant constant, such as return codes, sources, Cell fields, header fields, and input fields.",
+  "source": "@site/docs/script/syscalls-for-script.mdx",
+  "sourceDirName": "script",
+  "slug": "/script/syscalls-for-script",
+  "permalink": "/docs/script/syscalls-for-script",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/script/syscalls-for-script.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "syscalls-for-script",
+    "title": "CKB Syscalls for Script"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Program Languages for Script",
+    "permalink": "/docs/script/program-language-for-script"
+  },
+  "next": {
+    "title": "VM Cycle Limits",
+    "permalink": "/docs/script/vm-cycle-limits"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/out-point",
+  "title": "out_point",
+  "description": "A Cell outpoint pointing to the Cells used as dependencies of a transaction. Dep Cells can include code loaded into CKB-VM, or data for Script execution.",
+  "source": "@site/docs/tech-explanation/out-point.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/out-point",
+  "permalink": "/docs/tech-explanation/out-point",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/out-point.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "out-point",
+    "title": "out_point"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Cell_deps",
+    "permalink": "/docs/tech-explanation/cell-deps"
+  },
+  "next": {
+    "title": "dep_type",
+    "permalink": "/docs/tech-explanation/dep-type"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/type-script",
+  "title": "Type Script",
+  "description": "type-script}",
+  "source": "@site/docs/tech-explanation/type-script.mdx",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/type-script",
+  "permalink": "/docs/tech-explanation/type-script",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/type-script.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "type-script",
+    "title": "Type Script"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Lock Script",
+    "permalink": "/docs/tech-explanation/lock-script"
+  },
+  "next": {
+    "title": "Lock Script vs. Type Script: The Difference",
+    "permalink": "/docs/tech-explanation/lock-type-diff"
+  }
+}

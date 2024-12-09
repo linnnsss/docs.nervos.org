@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/intro-to-ckb-script-programming-3",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/intro-to-script-3.md",
+  "source": "@site/blog/intro-to-script-3.md",
+  "title": "Introduction to CKB Script Programming 3: UDT",
+  "description": "CKB's cell model and VM enables many new use cases. However that doesn't mean we need to ditch existing ones. One common use in existing blockchains, is to issue new tokens with special purpose/meaning from the token issuer. In Ethereum, we call those ERC20 tokens, let's see how we can build a similar concept in CKB. To distinguish from ERC20, we call the tokens issued in CKB user defined token, or UDT for short.",
+  "date": "2019-09-06T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 14.49,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Xuejie Xiao",
+      "title": "blockchain engineer at Cryptape",
+      "url": "https://xuejie.space/about/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Introduction to CKB Script Programming 3: UDT",
+    "date": "2019-09-06",
+    "slug": "intro-to-ckb-script-programming-3",
+    "authors": [
+      {
+        "name": "Xuejie Xiao",
+        "title": "blockchain engineer at Cryptape",
+        "url": "https://xuejie.space/about/"
+      }
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Introduction to CKB Script Programming 2: Script Basics",
+    "permalink": "/blog/intro-to-ckb-script-programming-2"
+  },
+  "nextItem": {
+    "title": "Introduction to CKB Script Programming 4: WebAssembly on CKB",
+    "permalink": "/blog/intro-to-ckb-script-programming-4"
+  }
+}

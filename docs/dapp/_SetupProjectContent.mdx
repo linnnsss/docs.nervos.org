@@ -1,0 +1,42 @@
+import Tabs from "@theme/Tabs";
+import TabItem from "@theme/TabItem";
+import ImgContainer from "@components/ImgContainer";
+import useBaseUrl from "@docusaurus/useBaseUrl";
+import StartDevnet from "./_StartDevnet.mdx";
+
+<StartDevnet />
+
+### Step 3: Run the Example
+
+Navigate to your project, install the node dependencies, and start running the example:
+
+```mdx-code-block
+<Tabs>
+  <TabItem value="offckb-yarn-start" label="Command">
+```
+
+```bash
+yarn && NETWORK=devnet yarn start
+```
+
+```mdx-code-block
+  </TabItem>
+  <TabItem value="offckb-yarn-start-result" label="Response">
+```
+
+```bash
+$ parcel index.html
+Server running at http://localhost:1234
+✨ Built in 66ms
+```
+
+```mdx-code-block
+  </TabItem>
+</Tabs>
+```
+
+Now, the app is running in http://localhost:1234
+
+<ImgContainer src={useBaseUrl(props.imageSrc)} />
+
+---

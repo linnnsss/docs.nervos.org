@@ -1,0 +1,28 @@
+{
+  "id": "getting-started/installation-guide",
+  "title": "Installation Guide",
+  "description": "This installation guide provides a step-by-step setup of all essential tools needed for completing every tutorial across the documentation.",
+  "source": "@site/docs/getting-started/installation.mdx",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/installation-guide",
+  "permalink": "/docs/getting-started/installation-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/getting-started/installation.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "installation-guide",
+    "title": "Installation Guide"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Quick Start (5min)",
+    "permalink": "/docs/getting-started/quick-start"
+  },
+  "next": {
+    "title": "Blockchain Networks",
+    "permalink": "/docs/getting-started/blockchain-networks"
+  }
+}

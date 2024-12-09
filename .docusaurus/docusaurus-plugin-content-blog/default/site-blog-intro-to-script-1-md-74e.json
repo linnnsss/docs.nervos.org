@@ -1,0 +1,35 @@
+{
+  "permalink": "/blog/intro-to-ckb-script-programming-1",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/intro-to-script-1.md",
+  "source": "@site/blog/intro-to-script-1.md",
+  "title": "Introduction to CKB Script Programming 1: Validation Model",
+  "description": "As of now, the cell validation model in CKB has been more or less stablized, hence I'm starting a series of article introducing CKB script programming here. My goal here is to fill in all the missing implementation details one need to write CKB scripts after reading the whitepaper, so you can start exploring this beautiful wonderland CKB presents.",
+  "date": "2019-07-05T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 6.37,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Xuejie Xiao",
+      "title": "blockchain engineer at Cryptape",
+      "url": "https://xuejie.space/about/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Introduction to CKB Script Programming 1: Validation Model",
+    "date": "2019-07-05",
+    "slug": "intro-to-ckb-script-programming-1",
+    "authors": [
+      {
+        "name": "Xuejie Xiao",
+        "title": "blockchain engineer at Cryptape",
+        "url": "https://xuejie.space/about/"
+      }
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Introduction to CKB Script Programming 2: Script Basics",
+    "permalink": "/blog/intro-to-ckb-script-programming-2"
+  }
+}

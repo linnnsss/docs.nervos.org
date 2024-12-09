@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/cell-model",
+  "title": "Cell Model",
+  "description": "Nervos CKB inherits Bitcoin’s architecture and creates the Cell Model, a generalized UTXO model as state storage.",
+  "source": "@site/docs/tech-explanation/cell-model.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/cell-model",
+  "permalink": "/docs/tech-explanation/cell-model",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/cell-model.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "cell-model",
+    "title": "Cell Model"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Cell",
+    "permalink": "/docs/tech-explanation/cell"
+  },
+  "next": {
+    "title": "Capacity",
+    "permalink": "/docs/tech-explanation/capacity"
+  }
+}

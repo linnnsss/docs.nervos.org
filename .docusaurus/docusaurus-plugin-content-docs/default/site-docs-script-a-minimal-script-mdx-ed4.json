@@ -1,0 +1,28 @@
+{
+  "id": "script/minimal-script",
+  "title": "Tutorial: A Minimal Script",
+  "description": "A Minimal Script",
+  "source": "@site/docs/script/a-minimal-script.mdx",
+  "sourceDirName": "script",
+  "slug": "/script/minimal-script",
+  "permalink": "/docs/script/minimal-script",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/script/a-minimal-script.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "minimal-script",
+    "title": "Tutorial: A Minimal Script"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "VM Cycle Limits",
+    "permalink": "/docs/script/vm-cycle-limits"
+  },
+  "next": {
+    "title": "Tutorial: Simple UDT",
+    "permalink": "/docs/script/sudt-script"
+  }
+}

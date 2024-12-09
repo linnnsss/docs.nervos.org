@@ -1,0 +1,28 @@
+{
+  "id": "history-and-hard-forks/ckb-hard-fork-history",
+  "title": "CKB Hard Fork History",
+  "description": "This page contains a timeline of all the hard forks, and updates to the Nervos CKB.",
+  "source": "@site/docs/history-and-hard-forks/ckb-hard-fork-history.mdx",
+  "sourceDirName": "history-and-hard-forks",
+  "slug": "/history-and-hard-forks/ckb-hard-fork-history",
+  "permalink": "/docs/history-and-hard-forks/ckb-hard-fork-history",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/history-and-hard-forks/ckb-hard-fork-history.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "ckb-hard-fork-history",
+    "title": "CKB Hard Fork History"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Intro to Hard Fork",
+    "permalink": "/docs/history-and-hard-forks/intro-to-hard-fork"
+  },
+  "next": {
+    "title": "History VM Version",
+    "permalink": "/docs/history-and-hard-forks/history-vm-version"
+  }
+}

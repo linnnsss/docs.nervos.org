@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/intro-to-ckb-script-programming-4",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/intro-to-script-4.md",
+  "source": "@site/blog/intro-to-script-4.md",
+  "title": "Introduction to CKB Script Programming 4: WebAssembly on CKB",
+  "description": "Since we made the choice to build CKB's virtual machine with RISC-V, we've been getting a question almost everyday: why don't you build your virtual machine on WebAssembly like everyone else does?",
+  "date": "2019-10-09T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 13.83,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Xuejie Xiao",
+      "title": "blockchain engineer at Cryptape",
+      "url": "https://xuejie.space/about/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Introduction to CKB Script Programming 4: WebAssembly on CKB",
+    "date": "2019-10-09",
+    "slug": "intro-to-ckb-script-programming-4",
+    "authors": [
+      {
+        "name": "Xuejie Xiao",
+        "title": "blockchain engineer at Cryptape",
+        "url": "https://xuejie.space/about/"
+      }
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Introduction to CKB Script Programming 3: UDT",
+    "permalink": "/blog/intro-to-ckb-script-programming-3"
+  },
+  "nextItem": {
+    "title": "Introduction to CKB Script Programming 5: Debugging",
+    "permalink": "/blog/intro-to-ckb-script-programming-5"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "integrate-wallets/ccc-wallet",
+  "title": "Wallet Connector(CCC)",
+  "description": "Common Chains Connector (CCC) is a new wallet connectivity library developed in Typescript Lang, designed to make it easier for developers to help users connect with multiple ecosystem wallets and manage their assets directly on CKB.",
+  "source": "@site/docs/integrate-wallets/ccc-wallet.mdx",
+  "sourceDirName": "integrate-wallets",
+  "slug": "/integrate-wallets/ccc-wallet",
+  "permalink": "/docs/integrate-wallets/ccc-wallet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/integrate-wallets/ccc-wallet.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "ccc-wallet",
+    "title": "Wallet Connector(CCC)"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Intro to Wallets",
+    "permalink": "/docs/integrate-wallets/intro-to-wallets"
+  },
+  "next": {
+    "title": "JoyID",
+    "permalink": "/docs/integrate-wallets/joyid"
+  }
+}

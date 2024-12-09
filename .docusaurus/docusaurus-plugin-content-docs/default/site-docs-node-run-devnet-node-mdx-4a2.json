@@ -1,0 +1,28 @@
+{
+  "id": "node/run-devnet-node",
+  "title": "Run a Devnet Node",
+  "description": "Ideal for local dev environment to start building your CKB dApp. No special local storage required.",
+  "source": "@site/docs/node/run-devnet-node.mdx",
+  "sourceDirName": "node",
+  "slug": "/node/run-devnet-node",
+  "permalink": "/docs/node/run-devnet-node",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/node/run-devnet-node.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "run-devnet-node",
+    "title": "Run a Devnet Node"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Run a Testnet Node",
+    "permalink": "/docs/node/run-testnet-node"
+  },
+  "next": {
+    "title": "Run a Public RPC Node",
+    "permalink": "/docs/node/run-public-rpc-node"
+  }
+}

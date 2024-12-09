@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/intro-to-ckb-script-programming-6",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/intro-to-script-6.md",
+  "source": "@site/blog/intro-to-script-6.md",
+  "title": "Introduction to CKB Script Programming 6: Type ID",
+  "description": "You might noticed there's a hashtype field in CKB's Script structure. For simplicity, we've been ignoring that till now. This post will provide an introduction to the hashtype field, and the unique capability it can bring.",
+  "date": "2020-02-03T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 13.595,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Xuejie Xiao",
+      "title": "blockchain engineer at Cryptape",
+      "url": "https://xuejie.space/about/"
+    }
+  ],
+  "frontMatter": {
+    "title": "Introduction to CKB Script Programming 6: Type ID",
+    "date": "2020-02-03",
+    "slug": "intro-to-ckb-script-programming-6",
+    "authors": [
+      {
+        "name": "Xuejie Xiao",
+        "title": "blockchain engineer at Cryptape",
+        "url": "https://xuejie.space/about/"
+      }
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Introduction to CKB Script Programming 5: Debugging",
+    "permalink": "/blog/intro-to-ckb-script-programming-5"
+  },
+  "nextItem": {
+    "title": "Introduction to CKB Script Programming 7: Advanced Duktape Examples",
+    "permalink": "/blog/intro-to-ckb-script-programming-7"
+  }
+}

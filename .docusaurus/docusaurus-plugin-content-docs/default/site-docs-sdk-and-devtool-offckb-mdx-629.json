@@ -1,0 +1,28 @@
+{
+  "id": "sdk-and-devtool/offckb",
+  "title": "OffCKB",
+  "description": "offckb is a an all-in-one CLI tool that provides a local CKB development environment.",
+  "source": "@site/docs/sdk-and-devtool/offckb.mdx",
+  "sourceDirName": "sdk-and-devtool",
+  "slug": "/sdk-and-devtool/offckb",
+  "permalink": "/docs/sdk-and-devtool/offckb",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/sdk-and-devtool/offckb.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "offckb",
+    "title": "OffCKB"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "CKB-CLI",
+    "permalink": "/docs/sdk-and-devtool/ckb-cli"
+  },
+  "next": {
+    "title": "Other Dev Tools",
+    "permalink": "/docs/sdk-and-devtool/devtool"
+  }
+}

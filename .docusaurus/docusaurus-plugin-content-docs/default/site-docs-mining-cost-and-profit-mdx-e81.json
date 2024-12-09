@@ -1,0 +1,28 @@
+{
+  "id": "mining/cost-and-profit",
+  "title": "Cost & Profit",
+  "description": "Mining CKBytes allows you to essentially purchase CKBytes at the cost of energy rather than market prices. Mining involves costs such as electricity, hardware, cooling, maintenance, and pool fees.",
+  "source": "@site/docs/mining/cost-and-profit.mdx",
+  "sourceDirName": "mining",
+  "slug": "/mining/cost-and-profit",
+  "permalink": "/docs/mining/cost-and-profit",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/mining/cost-and-profit.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "cost-and-profit",
+    "title": "Cost & Profit"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Halving",
+    "permalink": "/docs/mining/halving"
+  },
+  "next": {
+    "title": "Potential Risks",
+    "permalink": "/docs/mining/risks"
+  }
+}

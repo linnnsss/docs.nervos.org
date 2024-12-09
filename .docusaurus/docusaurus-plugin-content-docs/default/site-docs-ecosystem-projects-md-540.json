@@ -1,0 +1,28 @@
+{
+  "id": "ecosystem/projects",
+  "title": "Projects",
+  "description": "Discover our ecosystem of tools, resources, and projects that are essential for building your application",
+  "source": "@site/docs/ecosystem/projects.md",
+  "sourceDirName": "ecosystem",
+  "slug": "/ecosystem/projects",
+  "permalink": "/docs/ecosystem/projects",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/ecosystem/projects.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "projects",
+    "title": "Projects"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Info and Stats",
+    "permalink": "/docs/mining/info-stats"
+  },
+  "next": {
+    "title": "Organizations",
+    "permalink": "/docs/ecosystem/organizations"
+  }
+}

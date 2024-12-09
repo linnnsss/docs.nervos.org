@@ -1,0 +1,28 @@
+{
+  "id": "node/run-public-rpc-node",
+  "title": "Run a Public RPC Node",
+  "description": "A public RPC node allows external parties to interact with the blockchain, enabling actions such as querying blockchain data or submitting transactions. This setup is crucial for applications that rely on real-time data from the blockchain.",
+  "source": "@site/docs/node/run-public-rpc-node.mdx",
+  "sourceDirName": "node",
+  "slug": "/node/run-public-rpc-node",
+  "permalink": "/docs/node/run-public-rpc-node",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/node/run-public-rpc-node.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "run-public-rpc-node",
+    "title": "Run a Public RPC Node"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Run a Devnet Node",
+    "permalink": "/docs/node/run-devnet-node"
+  },
+  "next": {
+    "title": "Serilization and Molecule in CKB",
+    "permalink": "/docs/serialization/serialization-molecule-in-ckb"
+  }
+}

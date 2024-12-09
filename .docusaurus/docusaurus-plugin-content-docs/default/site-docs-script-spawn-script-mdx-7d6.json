@@ -1,0 +1,28 @@
+{
+  "id": "script/spawn-script",
+  "title": "Tutorial: Spawn Script",
+  "description": "The design of the syscall spawn function draws inspiration from Unix and Linux, hence they share the same terminologies: process, pipe, and file descriptor.",
+  "source": "@site/docs/script/spawn-script.mdx",
+  "sourceDirName": "script",
+  "slug": "/script/spawn-script",
+  "permalink": "/docs/script/spawn-script",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/script/spawn-script.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "spawn-script",
+    "title": "Tutorial: Spawn Script"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Tutorial: Simple UDT",
+    "permalink": "/docs/script/sudt-script"
+  },
+  "next": {
+    "title": "Tutorial: Upgradable Scripts with Type ID",
+    "permalink": "/docs/script/type-id"
+  }
+}

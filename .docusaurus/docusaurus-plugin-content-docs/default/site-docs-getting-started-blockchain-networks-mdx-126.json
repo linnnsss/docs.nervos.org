@@ -1,0 +1,28 @@
+{
+  "id": "getting-started/blockchain-networks",
+  "title": "Blockchain Networks",
+  "description": "CKB has different blockchain networks for different environments.",
+  "source": "@site/docs/getting-started/blockchain-networks.mdx",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/blockchain-networks",
+  "permalink": "/docs/getting-started/blockchain-networks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/getting-started/blockchain-networks.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "blockchain-networks",
+    "title": "Blockchain Networks"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Installation Guide",
+    "permalink": "/docs/getting-started/installation-guide"
+  },
+  "next": {
+    "title": "CKB vs. BTC",
+    "permalink": "/docs/getting-started/ckb-vs-btc"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/outputs",
+  "title": "outputs",
+  "description": "The transaction destroys the Cells in inputs and creates the Cells in outputs. These output Cells, identical in structure as the aforementioned Cell structure can be used as inputs for future transactions.",
+  "source": "@site/docs/tech-explanation/outputs.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/outputs",
+  "permalink": "/docs/tech-explanation/outputs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/outputs.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "outputs",
+    "title": "outputs"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "since",
+    "permalink": "/docs/tech-explanation/since"
+  },
+  "next": {
+    "title": "outputs_data",
+    "permalink": "/docs/tech-explanation/outputs-data"
+  }
+}

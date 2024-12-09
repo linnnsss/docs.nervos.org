@@ -1,0 +1,28 @@
+{
+  "id": "node/rpcs",
+  "title": "RPCs",
+  "description": "CKB RPCs are a set of programming interfaces provided by the Nervos CKB blockchain, enabling developers to interact with the network for querying data, managing transactions, and deploying Scripts directly.",
+  "source": "@site/docs/node/rpcs.mdx",
+  "sourceDirName": "node",
+  "slug": "/node/rpcs",
+  "permalink": "/docs/node/rpcs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/node/rpcs.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "rpcs",
+    "title": "RPCs"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Spore-DOB-0",
+    "permalink": "/docs/common-scripts/spore-dob-0"
+  },
+  "next": {
+    "title": "Run a Mainnet Node",
+    "permalink": "/docs/node/run-mainnet-node"
+  }
+}

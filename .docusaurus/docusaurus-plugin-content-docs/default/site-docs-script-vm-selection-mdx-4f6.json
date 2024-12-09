@@ -1,0 +1,28 @@
+{
+  "id": "script/vm-selection",
+  "title": "VM Version Selection",
+  "description": "When writing a Script, it is important to understand how the Script will be executed under a specific CKB-VM version. The CKB network has introduced various CKB-VM versions over time to enhance security, performance, bug fixes and support for new RISC-V extensions. However, the upgrade should not break the old code, and users must have the opt-in option to specify the VM version.",
+  "source": "@site/docs/script/vm-selection.mdx",
+  "sourceDirName": "script",
+  "slug": "/script/vm-selection",
+  "permalink": "/docs/script/vm-selection",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/script/vm-selection.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "vm-selection",
+    "title": "VM Version Selection"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "VM Cycle Limits",
+    "permalink": "/docs/script/vm-cycle-limits"
+  },
+  "next": {
+    "title": "Type ID: Upgradable Scripts",
+    "permalink": "/docs/script/type-id"
+  }
+}

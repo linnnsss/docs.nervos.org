@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/header",
+  "title": "header",
+  "description": "header is a sub-structure of Block and UncleBlock, including raw and nonce.",
+  "source": "@site/docs/tech-explanation/header.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/header",
+  "permalink": "/docs/tech-explanation/header",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/header.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "header",
+    "title": "header"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Block",
+    "permalink": "/docs/tech-explanation/block"
+  },
+  "next": {
+    "title": "RawHeader",
+    "permalink": "/docs/tech-explanation/rawheader"
+  }
+}

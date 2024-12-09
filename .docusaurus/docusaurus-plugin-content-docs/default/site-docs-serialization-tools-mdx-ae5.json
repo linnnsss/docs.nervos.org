@@ -1,0 +1,28 @@
+{
+  "id": "serialization/tools-molecule",
+  "title": "Molecule Tools",
+  "description": "Schema Compiler and Code Generator",
+  "source": "@site/docs/serialization/tools.mdx",
+  "sourceDirName": "serialization",
+  "slug": "/serialization/tools-molecule",
+  "permalink": "/docs/serialization/tools-molecule",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/serialization/tools.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "tools-molecule",
+    "title": "Molecule Tools"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Use in CKB Scripts",
+    "permalink": "/docs/serialization/use-in-ckb-scripts"
+  },
+  "next": {
+    "title": "Molecule Schema Language",
+    "permalink": "/docs/serialization/schema-language"
+  }
+}

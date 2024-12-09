@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/script-group-exe",
+  "title": "Script Group Execution",
+  "description": "script-group-exe}",
+  "source": "@site/docs/tech-explanation/script-group-exe.mdx",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/script-group-exe",
+  "permalink": "/docs/tech-explanation/script-group-exe",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/script-group-exe.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "script-group-exe",
+    "title": "Script Group Execution"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Lock Script vs. Type Script: The Difference",
+    "permalink": "/docs/tech-explanation/lock-type-diff"
+  },
+  "next": {
+    "title": "witnesses",
+    "permalink": "/docs/tech-explanation/witness"
+  }
+}

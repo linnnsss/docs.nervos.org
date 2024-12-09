@@ -1,0 +1,28 @@
+{
+  "id": "mining/hardware",
+  "title": "Hardware",
+  "description": "Since March 2020, CKB mining has gradually shifted towards ASIC mining. Mining CKB requires purchasing professional mining machines developed by third-party manufacturers.",
+  "source": "@site/docs/mining/hardware.mdx",
+  "sourceDirName": "mining",
+  "slug": "/mining/hardware",
+  "permalink": "/docs/mining/hardware",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/mining/hardware.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "hardware",
+    "title": "Hardware"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Potential Risks",
+    "permalink": "/docs/mining/risks"
+  },
+  "next": {
+    "title": "Guide",
+    "permalink": "/docs/mining/guide"
+  }
+}

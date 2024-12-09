@@ -1,0 +1,28 @@
+{
+  "id": "dapp/simple-lock",
+  "title": "Build a Simple Lock",
+  "description": "Tutorial Overview",
+  "source": "@site/docs/dapp/simple-lock.mdx",
+  "sourceDirName": "dapp",
+  "slug": "/dapp/simple-lock",
+  "permalink": "/docs/dapp/simple-lock",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/dapp/simple-lock.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "simple-lock",
+    "title": "Build a Simple Lock"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Create a DOB",
+    "permalink": "/docs/dapp/create-dob"
+  },
+  "next": {
+    "title": "Intro to Script",
+    "permalink": "/docs/script/intro-to-script"
+  }
+}

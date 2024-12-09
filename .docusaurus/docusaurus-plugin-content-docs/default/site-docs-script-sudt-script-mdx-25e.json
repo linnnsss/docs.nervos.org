@@ -1,0 +1,28 @@
+{
+  "id": "script/sudt-script",
+  "title": "Tutorial: Simple UDT",
+  "description": "User-Defined Token (UDT) is a fungible token standard on CKB blockchain.",
+  "source": "@site/docs/script/sudt-script.mdx",
+  "sourceDirName": "script",
+  "slug": "/script/sudt-script",
+  "permalink": "/docs/script/sudt-script",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/script/sudt-script.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "sudt-script",
+    "title": "Tutorial: Simple UDT"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Tutorial: A Minimal Script",
+    "permalink": "/docs/script/minimal-script"
+  },
+  "next": {
+    "title": "Tutorial: Spawn Script",
+    "permalink": "/docs/script/spawn-script"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "common-scripts/spore-protocol",
+  "title": "Spore Protocol",
+  "description": "The Spore Protocol is an on-chain protocol designed to empower the ownership, distribution, and value capture of unique digital objects (DOBs) known as Spores.",
+  "source": "@site/docs/common-scripts/spore-protocol.mdx",
+  "sourceDirName": "common-scripts",
+  "slug": "/common-scripts/spore-protocol",
+  "permalink": "/docs/common-scripts/spore-protocol",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/common-scripts/spore-protocol.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "spore-protocol",
+    "title": "Spore Protocol"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "xUDT Script",
+    "permalink": "/docs/common-scripts/xudt"
+  },
+  "next": {
+    "title": "Spore-DOB-0",
+    "permalink": "/docs/common-scripts/spore-dob-0"
+  }
+}

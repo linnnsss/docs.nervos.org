@@ -1,0 +1,28 @@
+{
+  "id": "tech-explanation/glossary",
+  "title": "Glossary",
+  "description": "Glossary Sections",
+  "source": "@site/docs/tech-explanation/glossary.md",
+  "sourceDirName": "tech-explanation",
+  "slug": "/tech-explanation/glossary",
+  "permalink": "/docs/tech-explanation/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nervosnetwork/docs-new/tree/develop/website/docs/tech-explanation/glossary.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "id": "glossary",
+    "title": "Glossary"
+  },
+  "sidebar": "tutorial",
+  "previous": {
+    "title": "Tokenomics",
+    "permalink": "/docs/tech-explanation/economics"
+  },
+  "next": {
+    "title": "Algorithm and Difficulty Adjustment",
+    "permalink": "/docs/mining/algorithm-difficulty"
+  }
+}
