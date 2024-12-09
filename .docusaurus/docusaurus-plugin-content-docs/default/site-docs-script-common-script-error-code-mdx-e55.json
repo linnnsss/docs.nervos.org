@@ -22,7 +22,7 @@
     "permalink": "/docs/script/debug-script"
   },
   "next": {
-    "title": "Intro to Wallets",
-    "permalink": "/docs/integrate-wallets/intro-to-wallets"
+    "title": "Tutorial: A Minimal Script",
+    "permalink": "/docs/script/minimal-script"
   }
 }

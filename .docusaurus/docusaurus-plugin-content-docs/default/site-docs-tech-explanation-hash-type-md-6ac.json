@@ -1,7 +1,7 @@
 {
   "id": "tech-explanation/hash-type",
   "title": "hash_type",
-  "description": "hashtype defines the interpretation of the codehash when looking for matching dep Cells.",
+  "description": "hashtype defines the interpretation of the codehash when looking for matching dep Cells. Each hash_type value in this fields corresponds to a specific JSON representation, hash matching method, and the compatible VM version, specified as follows:",
   "source": "@site/docs/tech-explanation/hash-type.md",
   "sourceDirName": "tech-explanation",
   "slug": "/tech-explanation/hash-type",

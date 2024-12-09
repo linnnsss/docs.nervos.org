@@ -1,7 +1,7 @@
 {
   "id": "script/sudt-script",
   "title": "Tutorial: Simple UDT",
-  "description": "User-Defined Token (UDT) is a fungible token standard on CKB blockchain.",
+  "description": "<TutorialHeader",
   "source": "@site/docs/script/sudt-script.mdx",
   "sourceDirName": "script",
   "slug": "/script/sudt-script",

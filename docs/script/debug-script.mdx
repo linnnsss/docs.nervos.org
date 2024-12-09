@@ -187,26 +187,22 @@ Script debugging can be done in an IDE using `ckb-debugger`, which supports a `g
 
 For testing, refer to [this project](https://github.com/joii2020/ckb-llvm-examples).
 
-This guide uses **Rust** for demonstration. Similar principles apply to other languages as wel.
+This guide uses Rust for demonstration. Similar principles apply to other languages as well.
 
 #### Preparation
 
 - `ckb-debugger` supports older versions of GDB. For LLDB, version 18 or higher is required (older versions lack robust RISC-V support).
 - For CodeLLDB, ensure the version is at least `v1.11`.
 - For LLDB, use `ckb-debugger` version `0.118` or above.
-
-:::note
-
-Compilation may involve some LLVM commands. Just ensure the LLVM version is not too old.
-
-:::
+  :::note
+  Compilation may involve some LLVM commands. Just ensure the LLVM version is not too old.
+  :::
 
 #### Compilation
 
 :::note
 If your project was created using `ckb-script-templates`, the following steps are likely already done. You can skip this section.
 :::
-
 Due to CKB's memory constraints, by default, Scripts are compiled in Release mode without debug information. To enable debugging, update your `Cargo.toml` file with these settings for the release build:
 
 ```toml
@@ -262,12 +258,9 @@ Explanation of the fields:
 - `--bin` : Path to the Script file
 - `—gdb-listen` : Listening address and port (e.g., `8000` in this example, but it can be different).
 - `StopCkbDebugger`: Stops the `ckb-debugger` after a debug session. This is needed because `ckb-debugger` doesn’t exit automatically after debugging, but waits for the next execution instead.
-
-:::note
-
-If multiple Scripts are debugged simultaneously, stopping one session may terminate others.
-
-:::
+  :::note
+  If multiple Scripts are debugged simultaneously, stopping one session may terminate others.
+  :::
 
 ### 5. Profiling Data with Flamegraph Visualization Tool
 
@@ -296,9 +289,7 @@ Open the resulting SVG file to view the flamegraph:
 ## Debug With Native Simulator
 
 CKB Scripts follow the RISC-V specification and include APIs related to [VM syscalls](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0009-vm-syscalls/0009-vm-syscalls.md), making them incompatible to execute on common devices. Previously, many projects addressed this limitation by isolating the code unrelated to VM syscalls into separate libraries for development and testing. Some even implemented a rudimentary version of VM syscalls.
-
 Native Simulator addresses this issue, allowing for compilation and debugging on the native platform, as well as contract-related APIs simulation. For the code unrelated to VM syscalls and thus not executable on RISC-V, it can be compiled into a native executable for the host platform and debugged, while the VM syscalls part is managed by the [ckb-x64-simulator](https://github.com/nervosnetwork/ckb-x64-simulator), which simulates the required APIs. With both parts are covered, you can proceed with project management and testing. These functionalities have been integrated into `ckb-script-templates` and `ckb-testtool`.
-
 Below, we explain how to incorporate the Native Simulator into existing projects via `ckb-script-templates` or manually.
 
 ### Preparation
@@ -315,7 +306,6 @@ make generate-native-simulator CRATE=<Existing Script>
 ```
 
 where `CRATE` must be an existing Script.
-
 Once created, run `make build` to compile. If custom code causes errors, use `#[cfg(feature = "native-simulator")]` to handle them.
 
 ### Create Manually
@@ -347,15 +337,12 @@ c. Update [`main.rs`](http://main.rs) to conditionally enable `no_std`, `no_main
 ```rust
 #![cfg_attr(not(any(feature = "native-simulator", test)), no_std)]
 #![cfg_attr(not(test), no_main)]
-
 #[cfg(any(feature = "native-simulator", test))]
 extern crate alloc;
-
 #[cfg(not(any(feature = "native-simulator", test)))]
 ckb_std::entry!(program_entry);
 #[cfg(not(any(feature = "native-simulator", test)))]
 ckb_std::default_alloc!();
-
 pub fn program_entry() -> i8 {
     ...
     0
@@ -365,7 +352,6 @@ pub fn program_entry() -> i8 {
 #### Step 2. Create and Configure a Library
 
 Create a Rust lib `<contract_name>-sim` under `./native-simulator/`. There is no naming convention required here, it's just a recommended format. Add this lib to `Cargo.toml`.
-
 a. Include `ckb-std` and the Script in Step 1 as dependencies in `Cargo.toml`, with the `native-simulator` feature enabled, and ensure the lib type is `cdylib`:
 
 ```toml
@@ -392,7 +378,7 @@ Once the project is setup, use `ckb-testtool` (version 0.13.1 or higher) for tes
 
 The newly added `Context::add_contract_dir()` function allows you to set up the Script and the Native Simulator directory.
 
-To facilitate usage, add a native-simulator feature into the `tests`:
+To facilitate usage, add a `native-simulator` feature into the `tests`:
 
 ```toml
 native-simulator = [ "ckb-testtool/native-simulator" ]
@@ -409,7 +395,7 @@ For the Script, `ckb-std` uses [ckb-x64-simulator](https://github.com/nervosnetw
 - `CKB_TX_FILE` contains transaction information
 - `CKB_RUNNING_SETUP` contains miscellaneous data related to the transaction
 
-One key item in `CKB_RUNNING_SETUP` is `native_binaries`. It maps the Script to its corresponding Native Simulator, primarily used in [exec](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0034-vm-syscalls-2/0034-vm-syscalls-2.md#exec) and [spawn](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0050-vm-syscalls-3/0050-vm-syscalls-3.md#spawn).
+One key item in `CKB_RUNNING_SETUP` is `native_binaries`. It maps the Script to its corresponding Native Simulator, primarily used in [exec](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0034-vm-syscalls-2/0034-vm-syscalls-2.md#exec) and [Spawn](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0050-vm-syscalls-3/0050-vm-syscalls-3.md#spawn).
 
 In the `native-simulator`, `ckb-std` provides a macro: [`entry_simulator`](https://github.com/nervosnetwork/ckb-std/blob/master/src/entry.rs#L64) (similar to `entry`). This macro exports two C functions: `__ckb_std_main` and `__set_script_info`, as shown below:
 
@@ -444,12 +430,12 @@ where:
 
 These two debugging methods have their pros and cons. We recommend choosing based on the stage of your project (new or in maintenance) and your priority (compatibility or efficiency).
 
-| Feature       | CKB-debugger + VSCode                                                                                                                                        | Native-Simulator                                                                          |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
-| **Pros**      | - High compatibility, ready for earlier projects. <br /> - No discrepancies after deployment because CKB-VM and on-chain data retrieval are shared with CKB. | - High execution efficiency. <br /> - Advanced debugging tools (e.g., memory inspection). |
-| **Cons**      | - Subtle differences from actual script execution. <br /> - Requires a recent version `ckb-std` and some additional code.                                    |                                                                                           |
-| **Ideal for** | Projects in maintenance mode where minimal disruption is desired.                                                                                            | New projects or projects undergoing major modification that require extensive debugging.  |
-| **Tips**      | - Use with `ckb-script-templates` and `ckb-testtool`. <br /> - Avoid enabling Native Simulator in CI (Continuous Integration) testing.                       |                                                                                           |
+| Feature       | **CKB-debugger + VSCode**                                                                                                                                   | **Native Simulator**                                                                                                                                                                                                                               |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Pros**      | -High compatibility, ready for earlier projects. <br /> - No discrepancies after deployment because CKB-VM and on-chain data retrieval are shared with CKB. | - High execution efficiency. <br /> - Advanced debugging tools (e.g., memory inspection).                                                                                                                                                          |
+| **Cons**      |                                                                                                                                                             | - Subtle differences from actual script execution. <br /> - Requires a recent version `ckb-std` and some additional code.                                                                                                                          |
+| **Ideal for** | Projects in maintenance mode where minimal disruption is desired.                                                                                           | New projects or projects undergoing major modification that require extensive debugging.                                                                                                                                                           |
+| **Tips**      |                                                                                                                                                             | - Use with `ckb-script-templates` and `ckb-testtool`. <br /> - Avoid enabling Native Simulator in CI ([Continuous Integration](https://docs.github.com/en/actions/about-github-actions/about-continuous-integration-with-github-actions)) testing. |
 
 ---
 

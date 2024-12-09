@@ -154,15 +154,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ae2'),
+    component: ComponentCreator('/docs', 'da0'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'dd8'),
+        component: ComponentCreator('/docs', '2bd'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'eab'),
+            component: ComponentCreator('/docs', 'a3e'),
             routes: [
               {
                 path: '/docs/common-scripts/omnilock',
@@ -261,8 +261,26 @@ export default [
                 sidebar: "tutorial"
               },
               {
+                path: '/docs/history-and-hard-forks/ckb-hard-fork-history',
+                component: ComponentCreator('/docs/history-and-hard-forks/ckb-hard-fork-history', '305'),
+                exact: true,
+                sidebar: "tutorial"
+              },
+              {
+                path: '/docs/history-and-hard-forks/history-vm-version',
+                component: ComponentCreator('/docs/history-and-hard-forks/history-vm-version', 'f1d'),
+                exact: true,
+                sidebar: "tutorial"
+              },
+              {
                 path: '/docs/history-and-hard-forks/intro-to-hard-fork',
                 component: ComponentCreator('/docs/history-and-hard-forks/intro-to-hard-fork', '436'),
+                exact: true,
+                sidebar: "tutorial"
+              },
+              {
+                path: '/docs/history-and-hard-forks/rethinking-forks',
+                component: ComponentCreator('/docs/history-and-hard-forks/rethinking-forks', '1bd'),
                 exact: true,
                 sidebar: "tutorial"
               },
@@ -429,6 +447,12 @@ export default [
                 sidebar: "tutorial"
               },
               {
+                path: '/docs/script/spawn-cross-script-calling',
+                component: ComponentCreator('/docs/script/spawn-cross-script-calling', '204'),
+                exact: true,
+                sidebar: "tutorial"
+              },
+              {
                 path: '/docs/script/spawn-script',
                 component: ComponentCreator('/docs/script/spawn-script', '023'),
                 exact: true,
@@ -442,7 +466,7 @@ export default [
               },
               {
                 path: '/docs/script/syscalls-for-script',
-                component: ComponentCreator('/docs/script/syscalls-for-script', 'ecd'),
+                component: ComponentCreator('/docs/script/syscalls-for-script', '386'),
                 exact: true,
                 sidebar: "tutorial"
               },
@@ -455,6 +479,12 @@ export default [
               {
                 path: '/docs/script/vm-cycle-limits',
                 component: ComponentCreator('/docs/script/vm-cycle-limits', '75d'),
+                exact: true,
+                sidebar: "tutorial"
+              },
+              {
+                path: '/docs/script/vm-selection',
+                component: ComponentCreator('/docs/script/vm-selection', '6a0'),
                 exact: true,
                 sidebar: "tutorial"
               },

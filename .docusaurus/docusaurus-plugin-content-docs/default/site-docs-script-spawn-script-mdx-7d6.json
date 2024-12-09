@@ -1,7 +1,7 @@
 {
   "id": "script/spawn-script",
   "title": "Tutorial: Spawn Script",
-  "description": "The design of the syscall spawn function draws inspiration from Unix and Linux, hence they share the same terminologies: process, pipe, and file descriptor.",
+  "description": "<TutorialHeader",
   "source": "@site/docs/script/spawn-script.mdx",
   "sourceDirName": "script",
   "slug": "/script/spawn-script",
@@ -22,7 +22,7 @@
     "permalink": "/docs/script/sudt-script"
   },
   "next": {
-    "title": "Tutorial: Upgradable Scripts with Type ID",
-    "permalink": "/docs/script/type-id"
+    "title": "Tutorial: Run JS on CKB",
+    "permalink": "/docs/script/js-script"
   }
 }

@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorial",
   "previous": {
-    "title": "VM Cycle Limits",
-    "permalink": "/docs/script/vm-cycle-limits"
+    "title": "Common Script Error Code",
+    "permalink": "/docs/script/common-script-error-code"
   },
   "next": {
     "title": "Tutorial: Simple UDT",

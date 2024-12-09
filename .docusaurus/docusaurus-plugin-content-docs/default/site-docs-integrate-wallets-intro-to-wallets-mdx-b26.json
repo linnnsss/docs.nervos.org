@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorial",
   "previous": {
-    "title": "Common Script Error Code",
-    "permalink": "/docs/script/common-script-error-code"
+    "title": "Tutorial: Run JS on CKB",
+    "permalink": "/docs/script/js-script"
   },
   "next": {
     "title": "Wallet Connector(CCC)",

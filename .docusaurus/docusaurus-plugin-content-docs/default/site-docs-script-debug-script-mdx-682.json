@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorial",
   "previous": {
-    "title": "Tutorial: Run JS on CKB",
-    "permalink": "/docs/script/js-script"
+    "title": "Spawn: Direct Cross-Script Calling",
+    "permalink": "/docs/script/spawn-cross-script-calling"
   },
   "next": {
     "title": "Common Script Error Code",

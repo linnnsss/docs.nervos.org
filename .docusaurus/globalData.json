@@ -91,8 +91,23 @@
               "sidebar": "tutorial"
             },
             {
+              "id": "history-and-hard-forks/ckb-hard-fork-history",
+              "path": "/docs/history-and-hard-forks/ckb-hard-fork-history",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "history-and-hard-forks/history-vm-version",
+              "path": "/docs/history-and-hard-forks/history-vm-version",
+              "sidebar": "tutorial"
+            },
+            {
               "id": "history-and-hard-forks/intro-to-hard-fork",
               "path": "/docs/history-and-hard-forks/intro-to-hard-fork",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "history-and-hard-forks/rethinking-forks",
+              "path": "/docs/history-and-hard-forks/rethinking-forks",
               "sidebar": "tutorial"
             },
             {
@@ -231,6 +246,11 @@
               "sidebar": "tutorial"
             },
             {
+              "id": "script/spawn-cross-script-calling",
+              "path": "/docs/script/spawn-cross-script-calling",
+              "sidebar": "tutorial"
+            },
+            {
               "id": "script/spawn-script",
               "path": "/docs/script/spawn-script",
               "sidebar": "tutorial"
@@ -253,6 +273,11 @@
             {
               "id": "script/vm-cycle-limits",
               "path": "/docs/script/vm-cycle-limits",
+              "sidebar": "tutorial"
+            },
+            {
+              "id": "script/vm-selection",
+              "path": "/docs/script/vm-selection",
               "sidebar": "tutorial"
             },
             {

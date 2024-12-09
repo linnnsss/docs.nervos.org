@@ -18,11 +18,11 @@
   },
   "sidebar": "tutorial",
   "previous": {
-    "title": "Tutorial: Upgradable Scripts with Type ID",
-    "permalink": "/docs/script/type-id"
+    "title": "Tutorial: Spawn Script",
+    "permalink": "/docs/script/spawn-script"
   },
   "next": {
-    "title": "Debug Script",
-    "permalink": "/docs/script/debug-script"
+    "title": "Intro to Wallets",
+    "permalink": "/docs/integrate-wallets/intro-to-wallets"
   }
 }

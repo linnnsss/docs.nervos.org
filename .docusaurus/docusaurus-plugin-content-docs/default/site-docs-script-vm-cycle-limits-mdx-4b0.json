@@ -22,7 +22,7 @@
     "permalink": "/docs/script/syscalls-for-script"
   },
   "next": {
-    "title": "Tutorial: A Minimal Script",
-    "permalink": "/docs/script/minimal-script"
+    "title": "VM Version Selection",
+    "permalink": "/docs/script/vm-selection"
   }
 }

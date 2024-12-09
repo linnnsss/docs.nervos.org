@@ -302,17 +302,17 @@
       "plugin": "plugin---searchc-14-0ea"
     }
   },
-  "/docs-ae2": {
+  "/docs-da0": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-dd8": {
+  "/docs-2bd": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-7-c-1-f86"
   },
-  "/docs-eab": {
+  "/docs-a3e": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/common-scripts/omnilock-3cf": {
@@ -379,9 +379,21 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-getting-started-quick-start-053-d08"
   },
+  "/docs/history-and-hard-forks/ckb-hard-fork-history-305": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-history-and-hard-forks-ckb-hard-fork-history-7-b-2-425"
+  },
+  "/docs/history-and-hard-forks/history-vm-version-f1d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-history-and-hard-forks-history-vm-version-177-b5a"
+  },
   "/docs/history-and-hard-forks/intro-to-hard-fork-436": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-history-and-hard-forks-intro-to-hard-fork-491-644"
+  },
+  "/docs/history-and-hard-forks/rethinking-forks-1bd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-history-and-hard-forks-rethinking-forks-01-c-7ab"
   },
   "/docs/how-tos/how-to-calculate-code-hash-1cf": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -491,6 +503,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-script-program-language-for-script-35-a-7a9"
   },
+  "/docs/script/spawn-cross-script-calling-204": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-script-spawn-cross-script-callingb-96-a0c"
+  },
   "/docs/script/spawn-script-023": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-script-spawn-script-7-d-6-271"
@@ -499,9 +515,9 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-script-sudt-script-25-e-b28"
   },
-  "/docs/script/syscalls-for-script-ecd": {
+  "/docs/script/syscalls-for-script-386": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-script-syscalls-for-script-5-b-4-fc6"
+    "content": "content---docs-script-syscalls-for-scriptafa-5cd"
   },
   "/docs/script/type-id-eaa": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -510,6 +526,10 @@
   "/docs/script/vm-cycle-limits-75d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-script-vm-cycle-limits-4-b-0-628"
+  },
+  "/docs/script/vm-selection-6a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-script-vm-selection-4-f-6-45e"
   },
   "/docs/sdk-and-devtool/ccc-cad": {
     "__comp": "__comp---theme-doc-item-178-a40",
